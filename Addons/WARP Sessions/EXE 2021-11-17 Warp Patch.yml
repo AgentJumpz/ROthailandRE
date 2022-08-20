@@ -1,0 +1,173 @@
+from: "E:/Server Ragnarok 2022/2021-11-17_Ragexe_1637052357.exe"
+to: "D:/02-Client/[-MVP-].exe"
+inputs:
+    $copyNCDdll:
+        data: ''
+        display: "true"
+        type: 10
+    
+    $newPrivAirplane:
+        data: '53797374656d5c50726976617465416972706c616e655f545f454e2e6c756200'
+        display: "System\\PrivateAirplane_T_EN.lub"
+        type: 10
+    
+    $dataINI:
+        data: '5b2d4d56502d5d2e494e4900'
+        display: "[-MVP-].INI"
+        type: 10
+    
+    $newCheckAtt:
+        data: '53797374656d2f436865636b417474656e64616e63655f454e2e6c756200'
+        display: "System/CheckAttendance_EN.lub"
+        type: 10
+    
+    $customWindowTitle:
+        data: '5b2d4d56502d5d20436c69656e742045584520323032312d31312d313700'
+        display: "[-MVP-] Client EXE 2021-11-17"
+        type: 10
+    
+    $chatRoomBoxLen:
+        data: 'ea000000'
+        display: 234
+        type: 2
+    
+    $newTipBox:
+        data: '53797374656d2f746970626f785f454e2e6c756200'
+        display: "System/tipbox_EN.lub"
+        type: 10
+    
+    $showFailures:
+        data: ''
+        display: "true"
+        type: 10
+    
+    $newAchieveList:
+        data: '73797374656d5c616368696576656d656e745f6c6973745f454e2e6c756200'
+        display: "system\\achievement_list_EN.lub"
+        type: 10
+    
+    $chatBoxLen:
+        data: 'ea000000'
+        display: 234
+        type: 2
+    
+    $newOngQInfoList:
+        data: '73797374656d5c4f6e676f696e675175657374496e666f4c6973745f547275655f454e00'
+        display: "system\\OngoingQuestInfoList_True_EN"
+        type: 10
+    
+    $newMonSizeEffect:
+        data: '53797374656d5c6d6f6e737465725f73697a655f6566666563745f6e65772e6c756200'
+        display: "System\\monster_size_effect_new.lub"
+        type: 10
+    
+    $newRcmdQInfoList:
+        data: '73797374656d5c5265636f6d6d656e6465645175657374496e666f4c6973745f547275655f454e00'
+        display: "system\\RecommendedQuestInfoList_True_EN"
+        type: 10
+    
+    $npcBoxLength:
+        data: '00100000'
+        display: 4096
+        type: 2
+    
+    $newItemInfo:
+        data: '53797374656d2f6974656d696e666f5f454e2e6c756100'
+        display: "System/iteminfo_EN.lua"
+        type: 10
+    
+    $pmBoxLen:
+        data: 'ea000000'
+        display: 234
+        type: 2
+    
+    $newTownInfo:
+        data: '53797374656d2f546f776e696e666f5f454e2e6c756200'
+        display: "System/Towninfo_EN.lub"
+        type: 10
+    
+    $newMapInfo:
+        data: '73797374656d5c6d6170496e666f5f747275655f454e2e6c756200'
+        display: "system\\mapInfo_true_EN.lub"
+        type: 10
+    
+    $ssQuality:
+        data: '64'
+        display: 100
+        type: 2
+    
+    $translationFile:
+        data: ''
+        display: "Inputs/Translations_EN.yml"
+        type: 10
+    
+    $newPetEvoCln:
+        data: '73797374656d5c50657445766f6c7574696f6e436c6e5f747275655f452e6c756200'
+        display: "system\\PetEvolutionCln_true_E.lub"
+        type: 10
+    
+patches:
+    - NoGMSprite
+    - ShowGvGDamage
+    - NoWalkDelay
+    - EnableWho
+    - EnableShowName
+    - ResizeChatBox
+    - ResizeChatRoomBox
+    - ResizePMBox
+    - ResizeNpcBox
+    - ShowRoulette
+    - DefShopBrowser
+    - PreviewInShop
+    - ShowCashShop
+    - MediumCamAngle
+    - Zoom75Percent
+    - UseOldLogin
+    - UnlimitedChatRepeat
+    - AlwaysAscii
+    - CustomSSQuality
+    - CallKoreaClientInfo
+    - DataFolderFirst
+    - PlainTextDesc
+    - IncrMapQuality
+    - HideBuildInfo
+    - NoCameraLock
+    - TranslateClient
+    - MsgStrings
+    - CustomItemInfoLub
+    - CustomAchieveLub
+    - CustomTownInfoLub
+    - CustomPetEvoClnLub
+    - CustomTipboxLub
+    - CustomCheckAttLub
+    - CustomPrivAirplaneLub
+    - CustomMapInfoLub
+    - CustomOngQuestInfoLub
+    - CustomRcmdQuestInfoLub
+    - GRFsFromIni
+    - NoFilenameCheck
+    - EnableSysMenu
+    - CustomWinTitle
+    - No1and1Arg
+    - RestoreIcon
+    - EnableDnsSupport
+    - NoNagle
+    - EnableProxy
+    - NoHardCodedAddr
+    - SendClientFlags
+    - HidePacketsFromPEEK
+    - AutoMute
+    - NoSwearFilter
+    - SkipServiceSelect
+    - GuildBrackets
+    - FixChatAt
+    - NoHourly
+    - NoSerialDisplay
+    - NoHelpMsg
+    - ShortcutForAll
+    - FixHomunAI
+    - InsensitiveStorageSearch
+    - InsensitiveShopSearch
+    - NoGravityAds
+    - NoGravityLogo
+    - ShowReplayBtn
