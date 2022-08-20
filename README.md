@@ -14,3 +14,5 @@ Support แค่ Renewal EXE 2020+
 สำหรับติดต่อสอบถามแจ้ง Bug แปลผิด ต้องการเพิ่ม แก้ใข หรือ อื่นๆ
 
 [RO Thai Translation - Discord](https://discord.gg/FmsMGburZn)  [-MVP-]
+
+####Thank you Original Translation Project By llchrisll
