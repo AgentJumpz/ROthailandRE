@@ -4,12 +4,12 @@ achievement_tbl = {
 		group = "EAT",
 		major = 4,
 		minor = 0,
-		title = "สวัสดีครับ",
+		title = "ในชีวิตนี้ฉันมีชีวิตอยู่เพื่อกิน",
 		content = {
-			summary = "1 a.m. - Time for an midnight snack.",
-			details = "Bring the food Bigfoot demands to an ambitious perspective"
+			summary = "อาหารว่างของเป้าหมายมีระยะเวลา 00.00 - 01.00 น.",
+			details = "นำอาหารไปให้ Bigfoot ภายใน 1 ชม."
 		},
-		resource = { [1] = { text = "Bring the food Bigfoot demands to an ambitious perspective" } },
+		resource = { [1] = { text = "นำอาหารไปให้ Bigfoot ภายใน 1 ชม." } },
 		reward = {},
 		score = 10
 	},
