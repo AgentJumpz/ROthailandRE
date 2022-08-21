@@ -6877,7 +6877,7 @@ mapTbl = {
 		displayName = "Port City Alberta",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "Port City of Rune-Midgarts Kingdom",
+			subTitle = "เมืองท่าแห่งอาณาจักร Rune-Midgarts",
 			mainTitle = "Alberta"
 		},
 		backgroundBmp = "village"
@@ -6898,7 +6898,7 @@ mapTbl = {
 		displayName = "Border City Aldebaran",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "Border City in the Rune-Midgarts Kingdom",
+			subTitle = "เมืองชายแดนในอาณาจักร Rune-Midgarts",
 			mainTitle = "Aldebaran"
 		},
 		backgroundBmp = "village"
@@ -6919,7 +6919,7 @@ mapTbl = {
 		displayName = "Geffen, the Magic City",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "Magic City in the Rune-Midgarts Kingdom",
+			subTitle = "เมืองแห่งเวทมนตร์ในอาณาจักร Rune-Midgarts",
 			mainTitle = "Geffen"
 		},
 		backgroundBmp = "village"
@@ -6939,7 +6939,7 @@ mapTbl = {
 		displayName = "Morroc Town",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "Desert City in the Rune-Midgarts Kingdom",
+			subTitle = "เมืองทะเลทรายในอาณาจักร Rune-Midgarts",
 			mainTitle = "Morroc"
 		},
 		backgroundBmp = "village"
@@ -6960,7 +6960,7 @@ mapTbl = {
 		displayName = "Payon Town",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "Mountain City in the Rune-Midgarts Kingdom",
+			subTitle = "เมืองแห่งขุนเขาในอาณาจักร Rune-Midgarts",
 			mainTitle = "Payon"
 		},
 		backgroundBmp = "village"
@@ -6978,7 +6978,7 @@ mapTbl = {
 		displayName = "Prontera, Capital of Rune Midgard",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "Capital of the Rune-Midgarts Kingdom",
+			subTitle = "เมืองหลวงแห่งอาณาจักร Rune-Midgarts",
 			mainTitle = "Prontera"
 		},
 		backgroundBmp = "village"
