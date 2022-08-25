@@ -796,7 +796,7 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["ba_lib.rsw"] = {
-		displayName = "ตตผญฐü ฑโพ๏ภว ศธถ๛",
+		displayName = "library memory corridor",
 		notifyEnter = true, 
 		signName = {
 			subTitle = "Library",
@@ -5960,14 +5960,6 @@ mapTbl = {
 		},
 		backgroundBmp = "field_s2"
 	},
-	["gef_fild00.rsw"] = {
-		displayName = "Geffen Field",
-		notifyEnter = true, 
-		signName = {
-			mainTitle = "Geffen Field"
-		},
-		backgroundBmp = "field_s2"
-	},
 	["gef_fild01.rsw"] = {
 		displayName = "Geffen Field",
 		notifyEnter = true, 
@@ -6898,7 +6890,7 @@ mapTbl = {
 		displayName = "Border City Aldebaran",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "เมืองชายแดนในอาณาจักร Rune-Midgarts",
+			subTitle = "เมืองชายแดนในอาณาจัก?Rune-Midgarts",
 			mainTitle = "Aldebaran"
 		},
 		backgroundBmp = "village"
@@ -6919,7 +6911,7 @@ mapTbl = {
 		displayName = "Geffen, the Magic City",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "เมืองแห่งเวทมนตร์ในอาณาจักร Rune-Midgarts",
+			subTitle = "เมืองแห่งเวทมนตร์ในอาณาจัก?Rune-Midgarts",
 			mainTitle = "Geffen"
 		},
 		backgroundBmp = "village"
@@ -6939,7 +6931,7 @@ mapTbl = {
 		displayName = "Morroc Town",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "เมืองทะเลทรายในอาณาจักร Rune-Midgarts",
+			subTitle = "เมืองทะเลทรายในอาณาจัก?Rune-Midgarts",
 			mainTitle = "Morroc"
 		},
 		backgroundBmp = "village"
@@ -6960,7 +6952,7 @@ mapTbl = {
 		displayName = "Payon Town",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "เมืองแห่งขุนเขาในอาณาจักร Rune-Midgarts",
+			subTitle = "เมืองแห่งขุนเขาในอาณาจัก?Rune-Midgarts",
 			mainTitle = "Payon"
 		},
 		backgroundBmp = "village"
@@ -6978,7 +6970,7 @@ mapTbl = {
 		displayName = "Prontera, Capital of Rune Midgard",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "เมืองหลวงแห่งอาณาจักร Rune-Midgarts",
+			subTitle = "เมืองหลวงแห่งอาณาจัก?Rune-Midgarts",
 			mainTitle = "Prontera"
 		},
 		backgroundBmp = "village"
