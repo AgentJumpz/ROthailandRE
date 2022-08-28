@@ -1,139 +1,139 @@
-/savechat  :  save the contents of the chat window
+/savechat : บันทึกเนื้อหาของหน้าต่างแชท
 #
-Hold the ctrl key and press the * key to toggle the minimap between opaque and semi-transparent 
+กดปุ่ม ctrl ค้างไว้แล้วกดปุ่ม * เพื่อสลับแผนที่ย่อระหว่างทึบแสงและกึ่งโปร่งใส
 #
-Hold the shift key and drag with the right mouse button to adjust the viewing angle. To restore the original angle, hold the shift key and double-click the right mouse button 
+กดปุ่ม shift ค้างไว้แล้วลากด้วยปุ่มเมาส์ขวาเพื่อปรับมุมมอง หากต้องการคืนค่ามุมเดิม ให้กดปุ่ม shift ค้างไว้แล้วดับเบิลคลิกที่ปุ่มเมาส์ขวา
 #
-Hold the ctrl key and drag with the right mouse button to zoom in and out. To restore the original zoom, hold the ctrl key and double click the right mouse button. The mouse wheel can also be used to zoom in and out
+กดปุ่ม ctrl ค้างไว้แล้วลากด้วยปุ่มเมาส์ขวาเพื่อซูมเข้าและออก หากต้องการคืนค่าการซูมดั้งเดิม ให้กดแป้น ctrl ค้างไว้แล้วดับเบิลคลิกที่ปุ่มเมาส์ขวา สามารถใช้ล้อเลื่อนของเมาส์เพื่อซูมเข้าและออกได้
 #
-When you move the mouse cursor over monsters, it will change to a sword and you can then attack
+เมื่อคุณเลื่อนเคอร์เซอร์ของเมาส์ไปเหนือมอนสเตอร์ มันจะเปลี่ยนเป็นดาบและคุณสามารถโจมตีได้
 #
-Experience gained from killing a monster is proportional to the damage done to the monster. *When more than one player attack the same monster, the first player to attack will get more experience
+ค่าประสบการณ์ที่ได้รับจากการฆ่ามอนสเตอร์จะแปรผันตามความเสียหายที่ทำกับมอนสเตอร์ *เมื่อมีผู้เล่นมากกว่าหนึ่งคนโจมตีมอนสเตอร์ตัวเดียวกัน ผู้เล่นคนแรกที่โจมตีจะได้รับประสบการณ์มากขึ้น
 #
-Hold the ctrl key and attack a monster to lock-on attack status which will automatically attack the target untill the monster is killed. To cancel automatic attack, just click anywhere else
+กดปุ่ม ctrl ค้างไว้แล้วโจมตีมอนสเตอร์เพื่อล็อคสถานะการโจมตีซึ่งจะโจมตีเป้าหมายโดยอัตโนมัติจนกว่ามอนสเตอร์จะถูกฆ่า หากต้องการยกเลิกการโจมตีอัตโนมัติ ให้คลิกที่อื่นได้เลย
 #
-[Left click] on a item on the ground to pick it up. Items that you picked up will show in the inventory
+[คลิกซ้าย] ที่รายการที่อยู่บนพื้นเพื่อหยิบขึ้นมา รายการที่คุณหยิบขึ้นมาจะแสดงในสินค้าคงคลัง
 #
-[Right click] on an item to see a description of the item
+[คลิกขวา] ที่รายการเพื่อดูคำอธิบายของรายการ
 #
-The two bars below your feet are the HP and SP. The green is the HP and the blue is the SP. The player dies when HP drops to 0. To act as a warning, the HP bar will turn to red when player's HP is at or below 25%
+แถบสองขีดใต้เท้าของคุณคือ HP และ SP สีเขียวคือ HP และสีน้ำเงินคือ SP ผู้เล่นเสียชีวิตเมื่อ HP ลดลงเหลือ 0 เพื่อทำหน้าที่เป็นคำเตือน แถบ HP จะเปลี่ยนเป็นสีแดงเมื่อ HP ของผู้เล่นอยู่ที่หรือต่ำกว่า 25%
 #
-When the EXP bar is full (100%), base level will rise, and player is awarded with Status Points to invest freely in the desired attributes
+เมื่อแถบ EXP เต็ม (100%) ระดับพื้นฐานจะเพิ่มขึ้น และผู้เล่นจะได้รับคะแนนสถานะเพื่อลงทุนอย่างอิสระในคุณสมบัติที่ต้องการ
 #
-When the JOBEXP bar below the EXP bar is full (100%), job level will rise, and player is awarded with skill point to invest freely in the desired skill
+เมื่อแถบ JOBEXP ด้านล่างแถบ EXP เต็ม (100%) ระดับงานจะเพิ่มขึ้น และผู้เล่นจะได้รับคะแนนทักษะเพื่อลงทุนในทักษะที่ต้องการได้อย่างอิสระ
 #
-HP and SP recovers slowly when players stand still. *The recoversy speed doubles when players are sitting. However, when the player carries more than 50% on weight, then HP and SP cannot be recovered automatically
+HP และ SP ฟื้นตัวช้าเมื่อผู้เล่นยืนนิ่ง * ความเร็วในการกู้คืนเพิ่มขึ้นเป็นสองเท่าเมื่อผู้เล่นนั่ง อย่างไรก็ตาม เมื่อผู้เล่นมีน้ำหนักมากกว่า 50% HP และ SP จะไม่สามารถกู้คืนได้โดยอัตโนมัติ
 #
-Weight : displayed as carried weight and maximum loading weight. Players cannot carry the items more than maximum loading weight. Carried weight will turn red if it exceeds half of the maximum loading weight, and HP and SP auto recovery will stop. When carried weight exceeds 90% of maximum loading weight, the player will not be able to attack or use skills
+น้ำหนัก: แสดงเป็นน้ำหนักบรรทุกและน้ำหนักบรรทุกสูงสุด ผู้เล่นไม่สามารถบรรทุกสิ่งของเกินน้ำหนักบรรทุกสูงสุดได้ น้ำหนักบรรทุกจะเปลี่ยนเป็นสีแดง หากน้ำหนักบรรทุกเกินครึ่งหนึ่งของน้ำหนักสูงสุด และการกู้คืนอัตโนมัติของ HP และ SP จะหยุดลง เมื่อน้ำหนักบรรทุกเกิน 90% ของน้ำหนักบรรทุกสูงสุด ผู้เล่นจะไม่สามารถโจมตีหรือใช้ทักษะได้
 #
-Zeny : this is the currency used in Ragnarok Online. *It is automatically deducted when players trade or make purchases
+Zeny : นี่คือสกุลเงินที่ใช้ใน Ragnarok Online *จะถูกหักโดยอัตโนมัติเมื่อผู้เล่นทำการค้าหรือทำการซื้อ
 #
-When base level rises, players are awarded with Status Points which can be invested in their attributes
+เมื่อระดับฐานเพิ่มขึ้น ผู้เล่นจะได้รับคะแนนสถานะซึ่งสามารถนำไปลงทุนในคุณลักษณะของตนได้
 #
-STR (strength) : directly affects the player's attack. The higher the strength the more items one can carry. Increasing strength increases attack
+STR (ความแรง) : ส่งผลโดยตรงต่อการโจมตีของผู้เล่น ยิ่งมีความแข็งแรงสูงมากเท่าไหร่ก็ยิ่งสามารถบรรทุกสิ่งของได้มากเท่านั้น พลังที่เพิ่มขึ้นเพิ่มการโจมตี
 #
-DEX (dexterity) : directly affects the use of weapons. The higher the dexterity, the more efficient that weapons will become. When using bow and arrow, increasing DEX increases attack and accuracy; it also influences spell cast speed
+DEX (ความชำนาญ) : ส่งผลโดยตรงต่อการใช้อาวุธ ยิ่งมีความชำนาญมากเท่าไร อาวุธก็จะยิ่งมีประสิทธิภาพมากขึ้นเท่านั้น เมื่อใช้ธนูและลูกศร การเพิ่ม DEX จะเพิ่มการโจมตีและความแม่นยำ มันยังส่งผลต่อความเร็วในการร่ายเวทย์อีกด้วย
 #
-AGI (agility) : directly related to the player's agility. Increasing agility increases possibility of dodging enemy attacks; and the attack speed of various weapons will also rise
+AGI (ความว่องไว) : เกี่ยวข้องโดยตรงกับความคล่องตัวของผู้เล่น ความคล่องตัวที่เพิ่มขึ้นจะเพิ่มโอกาสในการหลบการโจมตีของศัตรู และความเร็วโจมตีของอาวุธต่างๆ ก็จะเพิ่มขึ้นด้วย
 #
-VIT (vitality) : directly related to the player's defence and HP. Higher VIT increases defence and decreses damage taken when attacked; it also increases maximum HP and HP recovery rate
+VIT (พลัง) : เกี่ยวข้องโดยตรงกับการป้องกันและ HP ของผู้เล่น VIT ที่สูงขึ้นจะเพิ่มการป้องกันและลดความเสียหายที่ได้รับเมื่อถูกโจมตี นอกจากนี้ยังเพิ่มอัตราการฟื้นฟู HP และ HP สูงสุด
 #
-INT (intelligence) : directly related to the player's SP. Higher INT increases magic attack (MATK) and magic defence (MDEF)
+INT (สติปัญญา) : เกี่ยวข้องโดยตรงกับ SP ของผู้เล่น INT ที่สูงขึ้นจะเพิ่มการโจมตีเวทย์ (MATK) และการป้องกันเวทย์ (MDEF)
 #
-LUK (luck) : luck is direcly related to various things, increasing LUK affects mainly the probability of critical hits and lucky (dodging enemy attacks purely by luck)
+LUK (โชค) : โชคเกี่ยวข้องโดยตรงกับสิ่งต่าง ๆ การเพิ่ม LUK ส่งผลต่อความน่าจะเป็นของการโจมตีคริติคอลและโชคดีเป็นหลัก (หลบการโจมตีของศัตรูด้วยโชคล้วนๆ)
 #
-[Print Screen] or [Scroll Lock] : take a screenshot. Screenshots will be saved in the [ScreenShot] files
+[Print Screen] หรือ [Scroll Lock] : จับภาพหน้าจอ ภาพหน้าจอจะถูกบันทึกไว้ในไฟล์ [ScreenShot]
 #
-[F10] : adjust the size of the chat window
+[F10] : ปรับขนาดหน้าต่างแชท
 #
-[F11] : keep only the basic information window and chat window; closes all other windows
+[F11] : เก็บเฉพาะหน้าต่างข้อมูลพื้นฐานและหน้าต่างสนทนา ปิดหน้าต่างอื่นทั้งหมด
 #
-[F12] : open/close the hot key bar. *Drag frequently used items or skills onto the F1-F9 keys, then press the corresponding key for quick access
+[F12] : เปิด/ปิดแถบปุ่มลัด *ลากรายการหรือทักษะที่ใช้บ่อยไปที่ปุ่ม F1-F9 จากนั้นกดปุ่มที่เกี่ยวข้องเพื่อการเข้าถึงอย่างรวดเร็ว
 #
-[INSERT] : sit or stand *Equivalent to entering [/sit] or [/stand] in the chat window. HP and SP recovery is twice as fast sitting than standing
+[INSERT] : นั่งหรือยืน *เทียบเท่ากับการป้อน [/sit] หรือ [/stand] ในหน้าต่างแชท การฟื้นฟู HP และ SP นั้นเร็วกว่าการยืนสองเท่า
 #
-[Alt] + [End] : toggle the [HP/SP] bars beneath the character on/off
+[Alt] + [End] : สลับแถบ [HP/SP] ใต้ตัวอักษร on/off
 #
-[Alt] + [Home] : toggle indication of accessible areas on the minimap on/off
+[Alt] + [Home] : สลับการบ่งชี้พื้นที่ที่สามารถเข้าถึงได้ในแผนที่ย่อเปิด/ปิด
 #
-[Alt] + [=] : toggle input status between double-byte and single-byte input. Commands entered in double-byte characters will not be executed; only single-byte commands will be executed
+[Alt] + [=] : สลับสถานะอินพุตระหว่างอินพุตแบบไบต์คู่และไบต์เดี่ยว คำสั่งที่ป้อนด้วยอักขระแบบไบต์คู่จะไม่ถูกดำเนินการ คำสั่งไบต์เดียวเท่านั้นที่จะถูกดำเนินการ
 #
-[Alt] + [F10] : toggle chat window on/off
+[Alt] + [F10] : สลับเปิด/ปิดหน้าต่างแชท
 #
-[Alt] + [1~9] , [Ctrl] + [-,=,w] :[Alt] + [1~9] uses the following emotions: exclamation, question mark, music, heart, sweat, light bulb, anger, cloud, money, eclipse. [Ctrl] + [-,=,w] : scissors, stone and paper 
+[Alt] + [1~9] , [Ctrl] + [-,=,w] :[Alt] + [1~9] ใช้อารมณ์ต่อไปนี้: อัศเจรีย์ เครื่องหมายคำถาม ดนตรี หัวใจ เหงื่อ หลอดไฟ ความโกรธ เมฆ เงิน คราส [Ctrl] + [-,=,w] : กรรไกร หิน และกระดาษ
 
-/WHO : display the number of players online of the server
+/WHO : แสดงจำนวนผู้เล่นออนไลน์ของเซิร์ฟเวอร์
 #
-/WHERE : display information and coordinate of player's current location
+/WHERE : แสดงข้อมูลและพิกัดตำแหน่งปัจจุบันของผู้เล่น
 #
-/H : display descriptions of basic commands
+/H : แสดงคำอธิบายคำสั่งพื้นฐาน
 #
-/BGM : toggle background music on/off. *Can also be done in the windows by pressing [Alt] + [0]
+/BGM : สลับเปิด/ปิดเพลงพื้นหลัง *สามารถทำได้ในหน้าต่างด้วยการกด [Alt] + [0]
 #
-/SOUND : toggle sound effects on/off. *Can also be done in the windows by pressing [Alt] + [0]
+/SOUND : สลับเปิด/ปิดเอฟเฟกต์เสียง *สามารถทำได้ในหน้าต่างด้วยการกด [Alt] + [0]
 #
-/EFFECT : toggle various graphical effects in the game on/off. *The game will run smoother when turn the effects off
+/EFFECT : สลับเปิด/ปิดเอฟเฟกต์กราฟิกต่างๆ ในเกม *เกมจะทำงานได้ราบรื่นขึ้นเมื่อปิดเอฟเฟกต์
 #
-/SKIP : toggle screen synchronization on/off
+/SKIP: เปิด/ปิดการซิงโครไนซ์หน้าจอ
 #
-/EX [character name] : ignore all 1:1 chat coming from the said player
-/IN [character name] : accept 1:1 chat coming from the said player
+/EX [ชื่อตัวละคร] : ละเว้นการแชทแบบ 1:1 ทั้งหมดที่มาจากผู้เล่นดังกล่าว
+/IN [ชื่อตัวละคร] : ยอมรับการแชทแบบ 1:1 จากผู้เล่นดังกล่าว
 #
-/EXALL : ignore all conversation coming from any player
-/INALL : accept conversation coming from any player
+/EXALL : ละเว้นการสนทนาทั้งหมดที่มาจากผู้เล่นคนใดคนหนึ่ง
+/INALL : ยอมรับการสนทนาที่มาจากผู้เล่นคนใดก็ได้
 #
-/EX : display a list of players being ignored
+/EX : แสดงรายการผู้เล่นที่ถูกละเว้น
 #
-/ORGANIZE [party name] : to form a party. *Captains of parties may invite other players to join
+/ORGANIZE [ชื่อปาร์ตี้] : เพื่อสร้างปาร์ตี้ *หัวหน้าปาร์ตี้อาจเชิญผู้เล่นอื่นเข้าร่วม
 #
-Right click on the player you want to invite and choose the "Invite into party" to invite the player to join
+คลิกขวาที่ผู้เล่นที่คุณต้องการเชิญและเลือก "เชิญเข้าร่วมปาร์ตี้" เพื่อเชิญผู้เล่นให้เข้าร่วม
 #
-/LEAVE : leave your current party. *There will be no additional confirmation if you use this command
+/LEAVE : ออกจากปาร์ตี้ปัจจุบันของคุณ *จะไม่มีการยืนยันเพิ่มเติมหากคุณใช้คำสั่งนี้
 #
-/EXPEL [character name] : the party captain may expel a specific member from the party. *There will be no additional confirmation if you use this command
+/EXPEL [ชื่อตัวละคร] : หัวหน้าปาร์ตี้อาจขับไล่สมาชิกบางคนออกจากปาร์ตี้ *จะไม่มีการยืนยันเพิ่มเติมหากคุณใช้คำสั่งนี้
 #
-Click the [circle] on the bottom right corner of the chat window and choose "party channel" to use the party channel and chat with party members
+คลิก [วงกลม] ที่มุมล่างขวาของหน้าต่างแชทและเลือก "ช่องปาร์ตี้" เพื่อใช้ช่องปาร์ตี้และแชทกับสมาชิกปาร์ตี้
 #
-%  : add % at the beginning of a message to chat in the party channel directly; or hold the ctrl key and then press enter to send the message directly to party members  
+% : เพิ่ม % ที่จุดเริ่มต้นของข้อความเพื่อแชทในช่องปาร์ตี้โดยตรง หรือกดแป้น ctrl ค้างไว้แล้วกด Enter เพื่อส่งข้อความไปยังสมาชิกปาร์ตี้โดยตรง
 #
-the minimap on the top right-hand corner will show the position of all the party members
+แผนที่ย่อมุมขวาบนจะแสดงตำแหน่งของสมาชิกปาร์ตี้ทั้งหมด
 #
-1:1 Chat : input character name on the left of the chat window and the message on the right; toggle between the two fields quickly by using the TAB key
+แชท 1:1 : ป้อนชื่อตัวละครทางด้านซ้ายของหน้าต่างแชทและข้อความทางด้านขวา สลับระหว่างสองฟิลด์อย่างรวดเร็วโดยใช้ปุ่ม TAB
 #
-the minimap keys [+/-] will zoom in/out on the map 
+ปุ่มแผนที่ย่อ [+/-] จะซูมเข้า/ออกบนแผนที่
 #
-[MVP system] : when fighting Boss level monsters, to protect the rights of the player dealing the most damage, the Boss's MVP item will be dropped automatically in the MVP player's inventory; if the Boss monster did not drop MVP items, then the player is compensated with 50% of the experience
+[ระบบ MVP] : เมื่อต่อสู้กับมอนสเตอร์ระดับ Boss เพื่อปกป้องสิทธิ์ของผู้เล่นที่สร้างความเสียหายได้มากที่สุด ไอเทม MVP ของ Boss จะดรอปโดยอัตโนมัติในคลังของผู้เล่น MVP ถ้าบอสมอนสเตอร์ไม่ดรอปไอเทม MVP ผู้เล่นจะได้รับการชดเชย 50% ของค่าประสบการณ์
 #
-The game window can be moved when playing in windowed mode. Hold [Alt] + [Space] and press the [m] key, then use the direction arrows or the mouse to move the game window
+หน้าต่างเกมสามารถย้ายได้เมื่อเล่นในโหมดหน้าต่าง กด [Alt] + [Space] ค้างไว้แล้วกดปุ่ม [m] จากนั้นใช้ลูกศรชี้ทิศทางหรือเมาส์เพื่อย้ายหน้าต่างเกม
 #
-/fog : toggle fog effect on/off. Fog effects better represent the weather of various maps. For players with lower-end computers, this increases the computing load. If the game halts or exits abnormally, we recommend players to turn off fog effect. Fog can be turned on/off permanently in Config
+/fog : สลับเปิด/ปิดเอฟเฟกต์หมอก เอฟเฟกต์หมอกแสดงถึงสภาพอากาศของแผนที่ต่างๆ ได้ดีขึ้น สำหรับผู้เล่นที่มีคอมพิวเตอร์ระดับล่าง จะเป็นการเพิ่มภาระในการประมวลผล หากเกมหยุดหรือออกอย่างผิดปกติ เราแนะนำให้ผู้เล่นปิดเอฟเฟกต์หมอก สามารถเปิด/ปิดหมอกได้อย่างถาวรใน Config
 #
-Items found on monsters are unidentified; use magnifying glasses bought from tool shops to identify and verify the effects and usage of items
+ไอเทมที่พบในมอนสเตอร์นั้นไม่สามารถระบุได้ ใช้แว่นขยายที่ซื้อจากร้านเครื่องมือเพื่อระบุและตรวจสอบผลกระทบและการใช้งานของรายการ
 #
-If Hunters want to use the Trap series of skills, they must have theกmBooby Trapกnitem on them
+ถ้าฮันเตอร์ต้องการใช้สกิลชุดกับดัก พวกเขาต้องมีกม.Booby Trapกnitem on
 #
-One Emperium is required to make a guild (union); the command is /GUILD [guild name] , the name cannot contain special characters or spaces. Alt + G opens the guild window
+ต้องใช้ Emperium หนึ่งตัวเพื่อสร้างกิลด์ (สหภาพ) คำสั่งคือ /GUILD [ชื่อกิลด์] ชื่อไม่สามารถมีอักขระพิเศษหรือช่องว่าง Alt + G เปิดหน้าต่างกิลด์
 #
-Guild members may use /GC [message] or $ [message] or press Alt + Enter for guild chat
+สมาชิกกิลด์สามารถใช้ /GC [ข้อความ] หรือ $ [ข้อความ] หรือกด Alt + Enter เพื่อสนทนากิลด์
 #
-To insert a card to a slot on the equipment, first un-equip the item, then double click on the card. A list of items available for the card will appear for selection
+ในการใส่การ์ดลงในช่องบนอุปกรณ์ ก่อนอื่นให้ถอดอุปกรณ์ จากนั้นดับเบิลคลิกที่การ์ด รายการไอเทมที่สามารถใช้ได้สำหรับการ์ดจะปรากฏขึ้นเพื่อเลือก
 #
-Description of courtesy point system   
---Novices may use this starting from Basic Skills level 8
---Right click on a player and choose to give courtesy point
+คำอธิบายของระบบจุดมารยาท
+--สามเณรสามารถใช้สิ่งนี้ได้ตั้งแต่ทักษะพื้นฐานระดับ8
+--คลิกขวาที่ผู้เล่นและเลือกให้แต้มมารยาท
 #
-Description of some abnormal status
---Stun : when stunned, players will not be able to move
---Darkness : screen turns dark; for monsters, this means a shorter radius of vision
---Frozen : unable to move; recovers only when attacked
+คำอธิบายของสถานะผิดปกติบางอย่าง
+--Stun : เมื่อมึนงงผู้เล่นจะไม่สามารถเคลื่อนที่ได้
+--Darkness : หน้าจอเปลี่ยนเป็นสีเข้ม สำหรับมอนสเตอร์ นี่หมายถึงรัศมีการมองเห็นที่สั้นลง
+--Frozen : ขยับไม่ได้ ฟื้นได้ก็ต่อเมื่อถูกโจมตี
 #
-Experience values will be deducted at death. After using skills or a battle, a 5-second delay is forced before you may go offline
+ค่าประสบการณ์จะถูกหักเมื่อเสียชีวิต หลังจากใช้ทักษะหรือการต่อสู้แล้ว ความล่าช้า 5 วินาทีจะถูกบังคับก่อนที่คุณจะออฟไลน์
 #
-Query the Kapra staff for access to storage, save points and leasing pushcarts.
+สอบถามเจ้าหน้าที่ Kapra เพื่อเข้าถึงพื้นที่จัดเก็บ บันทึกคะแนน และเช่ารถเข็น
 #
-[Alt] + [J] : Can use to see the adopt pet's
+[Alt] + [J] : ใช้ดูสัตว์เลี้ยงที่รับมาเลี้ยงได้
 #
-Function follow people : Click the key [Shift] + [right click]
+ฟังก์ชั่นติดตามคน : คลิกปุ่ม [Shift] + [คลิกขวา]
 #
-[Alt] + [L] : Use for emotion bar, click  Alt+M or Alt+L to choose your preferred emotion.
+[Alt] + [L] : ใช้สำหรับแถบอารมณ์ คลิก Alt+M หรือ Alt+L เพื่อเลือกอารมณ์ที่ต้องการ
 #
