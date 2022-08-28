@@ -1,90 +1,69 @@
 %faf0e6
-^000088- A best seller among Rune-Midgarts housewives! 
-Don't miss this chance to become a master of cooking! -^000000 
-Also a best seller among family men: let your wife rest during weekends. 
-This book teaches you how to cook Level 3 recipes easily!
+^000088- สุดยอดหนังสือขายดีของเหล่าแม่บ้านชาว Rune-Midgarts! อย่าพลาดที่จะกลายเป็นสุดยอดพ่อครัว แม่ครัว! -^000000 
+และยังเป็นสุดยอดหนังสือขายดีของเหล่าพ่อบ้านอีกด้วย : ให้ภรรยาของท่านได้พักผ่อนในวันหยุดสุดสัปดาห์เสียบ้าง หนังสือเล่มนี้จะสอนให้ท่านทำอาหาร Level 3 แบบง่ายๆได้!
 
 
-^ff0000Bomber Steak:^000000 the explosive, spicy taste will definitely stimulate your appetite!
-Ingredients: ^4b00824 Meat, 1 Old Frying Pan, 10 Green Herbs, 5 Red Chile, 1 Spicy Sauce ^000000
-Directions: 
-	1. Tenderize the Meat by pounding the Meat with the back of a Mace.
-	2. Grind well-dried Green Herbs and Red Chiles.
-	3. Marinade the tenderized Meat in the mixture of Green Herbs and Red Chiles.
-	4. Heat the Old Frying Pan over medium heat, and then add oil and butter.
-	5. Sprinkle a little salt on the Meat just before cooking.
-	6. Start cooking the Meat in the frying pan on the one side.
-	7. When one side is well cooked, sprinkle a little more salt, and then turn it over.
-	8. Cook the other side of Meat until it is crisp and dark brown.
-	9. Please the steak on a plate, and garnish with 3 or 4 Green Herb leaves, 
-                    and then serve with Spicy Sauce.
+^ff0000 Bomber Steak:^000000 รสชาติอันเผ็ดร้อนจะช่วยกระตุ้นความอยากอาหารอย่างแน่นอน
+ส่วนผสม : ^4b00824 Meat, 1 Old Frying Pan, 10 Green Herbs, 5 Red Chile, 1 Spicy Sauce ^000000
+วิธีทำ : 
+	1. ใช้ส่วนหลังของ Mace ทุบเนื้อให้นุ่ม
+	2. บด Green Herb และ Red Chile ให้แห้ง
+	3. หมักเนื้อที่ทุบแล้วด้วย Green Herb และ Red Chile ที่บดไว้
+	4. ตั้งกระทะให้ร้อนปานกลางแล้วใส่น้ำมันกับเนยลงไป
+	5. โรยเกลือลงไปเล็กน้อย
+	6. ใส่เนื้อลงไปในกระทะ
+	7. เมื่อได้ที่แล้วให้โรยเกลือแล้วกลับด้าน
+	8. สังเกตุเนื้อว่าได้ที่แล้วหรือยัง อย่าให้เกรียมมากจนเกินไป
+	9. นำสเต็กใส่จาน ตกแต่งด้วยใบของ Green Herb แล้วเสิร์ฟพร้อมกับซอสเผ็ด
           
 
-^0000ffHoney Herbal Tea:^000000an aromatic tea that leaves behind refreshing minty breath!
-Ingredients: ^4b00822 Honey, 10 White Herbs, 1 Yellow Spice ^000000
-Directions: 
-Dried herbs are usually used to brew herbal tea, but fresh herbs are usually used in 
-this recipe. Herbs are 90% moisture, so you'll need to use 3 to 4 times more fresh herbs 
-than dried herbs for fuller flavor. If you don't have enough herbs, you can substitute 
-a portion of them with more Yellow Spice.
-	1. Place the herbs into the teapot, pour hot water, and then close the lid.
-	2. Infuse the tea for 4 to 5 minutes, especially since you're using fresh herbs. 
-                    If you are substituting dried herbs, brew for 3 minutes.
-	3. Add Yellow Spice and Honey to taste, and enjoy.
+^0000ffHoney Herbal Tea:^000000 กลิ่นหอมของชาชั้นดีจะทำให้ลมปากหอมสดชื่นตลอดวัน
+ส่วนผสม : ^4b00822 Honey, 10 White Herbs, 1 Yellow Spice ^000000
+วิธีทำ : 
+ปกติแล้วสมุนไพรแห้งจะถูกใช้เพื่อทำชาสมุนไพร แต่สำหรับสูตรนี้เราจะใช้สมุนไพรสดเท่านั้น ซึ่งจะต้องใช้สมุนไพรสดมากกว่าสมุนไพรแห้งปกติถึง 3-4 เท่า 
+
+	1. ใส่สมุนไพรลงในหม้อต้มชา เทน้ำร้อนลงไปแล้วปิดฝา
+	2. ถ้าใช้สมุนไพรสดให้ทิ้งไว้ 4-5 นาที แต่ถ้าใช้สมุนไพรแห้งให้ทิ้งไว้แค่ 3 นาที
+	3. ใส่ Yellow Spice และน้ำผึ้งลงไป เป็นอันเสร็จ
 
 
-^800000Fruit Mix:^000000 enjoy a crunchy texture of sweet, fresh fruit!
-Ingredients: ^4b00825 Apples, 5 Bananas, 5 Oranges, 5 Strawberries, 1 Yellow Spice ^000000
-Directions: 
-	1. Rinse Apples, Oranges, and Strawberries.
-	2. Skin Apples, Oranges, and Bananas, and cut them into bite sized pieces. 
-                    Slice the Strawberries in halves.
-	3. Place the Apples and Oranges into a long glass, and add the Bananas and 
-                    Strawberries on top of the Apples and Oranges. This is merely 
-                    a serving suggestion, and you can mix the fruit as you please.
-	4. Serve the mixed fruit with Yellow Spice sprinkled on top.
+^800000Fruit Mix:^000000 เพลิดเพลินไปกับผลไม้รวมแสนอร่อย
+ส่วนผสม : ^4b00825 Apples, 5 Bananas, 5 Oranges, 5 Strawberries, 1 Yellow Spice ^000000
+วิธีทำ : 
+	1. ล้างแอปเปิ้ล ส้ม และสตรอเบอรี่ ให้สะอาด
+	2. ปอกเปลือกทั้งหมด และหั่นเป็นชิ้นพอดีคำ แต่สตรอเบอรี่ให้ผ่าครึ่ง
+	3. นำแอปเปิ้ลและส้มใส่ลงไปในแก้วทรงสูง และใส่กล้วยกับสตรอเบอรี่ตามลงไป หรือถ้าชอบแบบไหนก็สามารถปรับเปลี่ยนได้ตามที่ชอบ
+	4. เสิร์ฟผลไม้รวมพร้อมกับ Yellow Spice 
          
-^008040Tentacle Cheese Gratin:^000000 enjoy the rich taste of gratin made with cheese and 
-                                                     smooth Tentacles.
-Ingredients: ^4b008210 Tentacles, 10 cheese, 5 Yam, and 1 Sweet Sauce ^000000
-Directions:
-	1. Rinse and skin Yams. Chop the Yams into large squares.
-	2. Rinse Tentacles, and cut them into 3 to 4 cm lengthwise pieces.
-	3. Heat a frying pan over medium heat.
-	4. Add Oil to the pan, and fry the tentacles. 
-	5. Add salt and pepper while frying.
-	6. Spread butter in a gratin bowl, and add the fried Tentacles and cut Yams. 
-	7. Spread the Sweet Sauce and Cheese on the top of the Tentacles and Yams.
-	8. Broil in the oven for 10 minutes.
+^008040 Tentacle Cheese Gratin:^000000 ชีสหอมๆ กับหนวดไฮดร้าก็สร้างบรรยากาศได้ดีทีเดียว
+ส่วนผสม : ^4b008210 Tentacles, 10 cheese, 5 Yam, and 1 Sweet Sauce ^000000
+วิธีทำ :
+	1. ล้างมันเทศ หั่นให้เป็นชิ้นใหญ่ๆ
+	2. ล้างหนวดไฮดร้าและตัดมันออกเป็นชิ้นๆ ยาวประมาณ 3-4 เซนติเมตร
+	3. ตั้งกระทะให้ร้อนปานกลาง
+	4. ใส่น้ำมัน และหนวดไฮดร้าลงไป 
+	5. ใส่เกลือและพริกไทยเพื่อเพิ่มรสชาติ
+	6. ปาดเนยลงในชาม แล้วเทหนวดไฮดร้าที่ทอดแล้วพร้อมทั้งมันฝรั่งลงไป
+	7. เติมซอสหวานและชีส
+	8. นำไปย่าง ทิ้งไว้ 10 นาทีเป็นอันเสร็จพิธี
 
-^ff8040Clam Soup:^000000 forget bland taste soup. Now is the time to enjoy a bowl of 
-                              uniquely sweet Clam Soup!
-Ingredients: ^4b008220 Clam Flesh, 10 Conch, 1 Honey, 1 Sweet Sauce ^000000
-Directions: 
-	1. Rub and clean Conches under cold water.
-	2. Steam the Conches, and remove intestines. Slice the cooked Conch flesh into 
-                    large squares.
-	3. Add water and the Conch flesh to a pot, and start boiling.
-	4. Skim off bubbles from the broth while boiling, and filter the broth 
-                    after it is boiled.
-	5. Pour the filtered broth to a pot, and add the Clam Flesh and Conch flesh.
-	6. Boil the soup, and add Honey and Sweet Sauce.
+^ff8040Clam Soup:^000000 ลืมซุปอื่นๆไปได้เลย ถ้าท่านได้มาสัมผัสกับ Clam Soup!
+ส่วนผสม : ^4b008220 Clam Flesh, 10 Conch, 1 Honey, 1 Sweet Sauce ^000000
+วิธีทำ : 
+	1. ขัดเปลือกหอยในน้ำเย็น
+	2. อบเปลือกหอยโดยคว้านเนื้อออก แร่เปลือกหอยออกมาเป็นชิ้นใหญ่ๆ
+	3. เทน้ำและเปลือกหอยลงหม้อแล้วต้ม
+	4. ตักฟองของน้ำที่เดือดออก กรองน้ำซุปออกมา
+	5. เทน้ำซุปใส่หม้อ ใส่เนื้อหอยลงไป
+	6. ต้มน้ำซุป ใส่น้ำผึ้งและซอสหวาน ก็เรียบร้อย
         
 
-^400080Fried Sweet Potato:^000000cooked and honeyed potato that is soft on the inside, 
-                                             and crunchy on the outside!
-Ingredients: ^4b008210 Potatoes, 10 Yams, 1 Sweet Potato,1 Sweet Sauce ^000000
-Directions:
-	1. Clean and rinse Potatoes and Yams. Cut them into a bite sized pieces 
-                    with the skin intact. The Sweet Potato is for relieving your hunger 
-                    before the dish is done, so eat it while you cook.
-	2. Prepare a large pot, and pour enough oil to dip the Potatoes and Yams. Heat the oil.
-	3. When the oil starts bubbling, add the Potatoes and Yams, and fry them 
-                    until the skin is crisp and golden brown.
-	4. Bring the fried Potatoes and Yams out of the oil, and place them in a strainer 
-                    to remove excessive oil.
-	5. Add 1 TS of cooking oil and 1 Yellow Sauce to a pan. Mix the oil and sauce together.
-	6. Add the fried Potatoes and Yams to the pan, and boil them down until the sauce 
-                    and oil mixture is sticky.
-Serve the cooked Potatoes and Yams on a plate with black sesame seeds sprinkled on top.
-
+^400080Fried Sweet Potato:^000000 มันเชื่อมน้ำผึ้งกรอบนอกนุ่มใน
+ส่วนผสม : ^4b008210 Potatoes, 10 Yams, 1 Sweet Potato,1 Sweet Sauce ^000000
+วิธีทำ :
+	1. ทำความสะอาดมันฝรั่ง หั่นออกเป็นชิ้นพอดีคำ 
+	2. เตรียมหม้อใบใหญ่พอที่จะใส่มันฝรั่งทั้งหมดลงไปในน้ำมัน จากนั้นต้มน้ำมันให้เดือด
+	3. เมื่อเดือดแล้ว ใส่มันฝรั่งลงไป รอจนผิวขอมันดูกรอบจนเป็นสีทอง
+	4. นำมันฝรั่งออกมาจากหม้อ กรองน้ำมันออก
+	5. นำน้ำมัน 1 ช้อนกับซอสหวาน 1 ช้อนคนเข้าด้วยกันเทลงบนกระทะ
+	6. เทมันฝรั่งลงไปในกระทะคนให้น้ำซอสเข้ากันกับเนื้อมันฝรั่ง ตักใส่จาน โรยงาดำ เป็นอันเสร็จ

@@ -1,86 +1,63 @@
 %faf0e6
-^000088The sad story of a chef and his brother that lost their sense of taste while attempting to 
-cook a legendary, forbidden dish.^000000
-Be forewarned that the following dishes can be dangerous in unskilled hands. 
-These are the ultimate Level 9 cooking recipes.
+^000088มันเป็นเรื่องเศร้าของพ่อครัวและพี่น้องของเขา ซึ่งสูญเสียประสาทสัมผัส ทางด้านรสชาติขณะที่กำลังปรุงอาหารในตำนาน,มันคืออาหารต้องห้าม.^000000
+มีการเตือนภัยล่วงหน้าสำหรับอันตรายที่จะได้รับหากผู้ที่ทำไม่ได้มีการฝึกฝนมาก่อน. สิ่งเหล่านี้จะอยู่ในตำรับอาหารเลเวล 9 .
 
 
-^ff0000Tendon Satay:^000000 not every tendon is tough and chewy. Here's a dish made with soft 
-                                   and tender tendons.
-Ingredients: ^4b008240 Tendons, 1 Pot, 10 Cheese, 1 Spicy Sauce, 2 Coal, 30 Green Herbs, 
-                   10 Squid Ink ^000000 
-Directions:
-	1. Cut Tendons to 3 cm long pieces, and sprinkle salt and pepper.
-	2. Parboil, and then cool down some Green Herbs, and chop up the rest.
-	3. Pour Squid Ink and water into the Pot, and boil down the mixture to make sauce.
-	4. Add Spicy Sauce to the sauce, and continue boiling until the mixture thickens.
-	5. Start a fire with Coals, and fry Tendons with the parboiled Green Herbs and Cheese 
-                    until the Tendon's are golden brown in color.
-	6. Put the fried Tendons on a plate, and pour Squid Ink sauce over them.
-	7. Server the Tendon Satay with chopped Green Herbs sprinkled on top.
+^ff0000Tendon Satay:^000000ไม่มีความเหนียวเมื่อคุณได้เคี้ยว.อาหารทุกจานที่นี่ทำจากเอ็นที่อ่อนนุ่มของ tendons.
+ส่วนผสม: ^4b008240 Tendons, 1 Pot, 10 Cheese, 1 Spicy Sauce, 2 Coal, 30 Green Herbs, 10 Squid Ink ^000000 
+วิธีปรุง:
+	1. หั่น Temdons ยาว 3 ซม.ต่อชิ้น ,และโรยด้วยพริกไทยเกลือ.
+	2. ลวก, Green Herbsและทำให้เย็น ,สับให้ละเอียด.
+	3. เท Squid Ink และ water ลงในหม้อ,และต้มอ่อนๆเพื่อทำ sauce.
+	4. ใส่ Spicy Sauce ลงในซอสที่ทำไว้,และ ต้มต่อไปจนส่วนผสมข้นขึ้น.
+	5. จุดไฟด้วย Coals, และทอด Tendons กับGreen Herbsลวกและ Cheese จนสีของ Tendonเป็นสีน้ำตาลทอง.
+	6. วางTendonsที่ทอดแล้วลงบนจาน, และราดน้ำซอส Squid Ink จนทั่ว.
+	7. เสริฟ์ Tendon Satay กับ Green Herbs สับ โรยให้ทั่ว.
           
-^0000ffTristram 12:^000000fruit wine that tastes just like whiskey.
-Ingredients: ^4b008210 Yggdrasil Leaves, 10 Oranges, 5 Alcohol, 4 Royal Jellys, 2 Blue Potions, 
-                   1 Yellow Spice, 10 Aloe Leaflets^000000
-Directions:
-	1. Squeeze Oranges.
-	2. Mix well-dried Yeggradsil Leaves and Royal Jellys with Blue Potion in a mixer.
-	3. Add Alcohol to the mixture, and age for 12 years.
-	4. Line the rim of a glass with Yellow Spice, and then pour the drink in it.
-	5. Serve the drink with Royal Jellys.
+^0000ffTristram 12:^000000รสชาติของเหล้าองุ่นผสมผสานกับ whiskey.
+ส่วนผสม: ^4b008210 Yggdrasil Leaves, 10 Oranges, 5 Alcohol, 4 Royal Jellys, 2 Blue Potions, 1 Yellow Spice, 10 Aloe Leaflets^000000
+วิธีปรุง:
+	1. คั้น Oranges เพื่อเอาน้ำ.
+	2. ผสม Yeggradsil Leaves และRoyal Jellys กับBlue Potion ในอ่างผสม.
+	3. เพิ่ม Alcohol ในส่วนผสม, และมีอายุ 12 ปี.
+	4. ปากขอบแก้วทำให้เป็นวงด้วย Yellow Spice, เติมส่วนผสมที่ทำแล้วลงไป.
+	5. เสริฟ์พร้อมกับ Royal Jellys.
 
-^800000Heavenly Fruit Juice:^000000 fruit juice with a flavor that makes you feel you're floating 
-                                               in the clouds!
-Ingredients: ^4b00822 Unripe Apples, 10 Oranges, 10 Strawberries, 1 Red Spice, 1 Tropical Banana, 
-                   5 Grape Juice, 2 Alcohol ^000000
-Directions:
-	1. Peel Unripe Apples, and Oranges. Cut each apple into 3 slices, and each orange 
-                    into 4 slices.
-	2. Remove stalks from the Strawberries, and peel and cut tje Tropical Bananas.
-	3. Put the fruits and half of the Grape Juice into a mixer, and mix the contents well.
-	4. Add the rest of Grape Juice and Alcohol to the mixer, and mix for 30 seconds longer.
-	5. Pour the juice into a glass, and sprinkle Red Spice on top. 
-                    Note: You may add Ice Cubes to the juice to chill it and make
-                    the flavor more crisp when you mix this drink.
+^800000Heavenly Fruit Juice:^000000น้ำผลไม้ที่ทำให้คุณรู้สึกเหมือนล่องลอยอยู่ในความฝัน!
+ส่วนผสม: ^4b00822 Unripe Apples, 10 Oranges, 10 Strawberries, 1 Red Spice, 1 Tropical Banana, 5 Grape Juice, 2 Alcohol ^000000
+วิธีปรุง:
+	1. ปอก Unripe Apples, และ Oranges.หั่นappleเป็น  3 ชิ้น, และหั่นส้ม  4 แผ่น.
+	2. เด็ดก้านออกจาก Strawberries, และปอกเปลือก Tropical Bananas.
+	3. ใส่ผลไม้ และ องุ่นอย่างละครึ่งลงในอ่างผสม , และผสมอย่างนุ่มนวล.
+	4. เพิ่ม Grape Juice และ Alcohol ลงในส่วนผสม,และผสมต่ออีก 30 นาที.
+	5. เทน้ำผลไม้ลงในแก้ว, และ โรย Red Spice บนสุด.  โน้ต : คุณอาจจะใส่น้ำแข็ง เพิ่อทำให้ มันสดชื่นมากชึ้น.
 
-^008040Special Meat Stew:^000000 special stew laced with all sorts of meat that has a tempting scent!
-Ingredients: ^4b008210 Meat, 5 Royal Jellys, 20 Shoots, 4 Savory Sauce, 5 Yellow Herbs, 
-                   10 White Herbs, 5 Red Herbs ^000000
-Directions:
-	1. Marinade Meat in wine overnight.
-	2. Steam the marinaded Meat for 2 hours, and then cut them into thin slices.
-	3. Chop up Royal Jellys and all the herbs, and then parboil Shoots.
-	4. Add pepper oil to a pot, and heat the pot over high heat. 
-                    When the pot is hot enough, add of of the ingredients to it.
-	5. Close the pot's lid, and simmer the stew for 3 hours.
+^008040Special Meat Stew:^000000 เนื้อตุ๋น สุดพิเศษ มีกลิ่นหอมยั่วจนน้ำลายไหล!
+ส่วนผสม: ^4b008210 Meat, 5 Royal Jellys, 20 Shoots, 4 Savory Sauce, 5 Yellow Herbs, 10 White Herbs, 5 Red Herbs ^000000
+วิธีปรุง:
+	1. หมักเนื้อกับไวน์ไว้ข้ามคืน .
+	2. อบเนื้อ ประมาณ  2 ชั่วโมง, และตัดแบ่งหั่นเป็นชิ้นบางๆ.
+	3. สับ Royal Jellysและสมุนไพรทุกอย่าง,และลวกพอสุก.
+	4. ใส่พริกไทย น้ำมันลงในหม้อ, และใช้ความร้อนสูง.เมื่อหม้อร้อนพอ, ใส่ส่วนผสมลงในนั้น.
+	5. ปิดฝาหม้อ,และเคี่ยวต่อไป 3 ชม.
           
 
-^ff8040Ascending Dragon Soup:^000000 spicy soup that makes you feel like a fire breathing dragon!
-Ingredients: ^4b008210 Dragon Skin, 20 Dragon Tails, 3 Yggdrasil Leaves, 6 Royal Jellys, 
-                   1 Spicy Sauce, 1 Red Spice, 1 Fatty Chubby Earthworm ^000000
-Directions:
-	1. Dragon Skin is tough, so tenderize the skin by scoring it.
-	2. Cut the Dragon Tails to bite sized pieces.
-	3. Cut Royal Jellys into a thick crescent shape, and diagonally slice 
-                    the Yggdrasil Leaves.
-	4. Wash the Fatty Chubby Earthworm, and boil it in water over high heat for 10 minutes.
-	5. Remove the earthworm when the broth is infused with its flavor. Add Spicy Sauce and 
-                    Red Spice, Dragon Skin, Dragon Tails, and Royal Jellys to the broth, 
-                    and continue boiling.
-	6. When the Dragon Skin and Dragon Tails are well cooked, add the Yggdrasil Leaves, and 
-                   continue boiling a little longer.
+^ff8040Ascending Dragon Soup:^000000 ซุบรสจัดจ้านทำให้ลมหายใจของคุณที่พ่นออกมาอาจเป็นไฟเหมือนมังกร.
+ส่วนผสม: ^4b008210 Dragon Skin, 20 Dragon Tails, 3 Yggdrasil Leaves, 6 Royal Jellys, 1 Spicy Sauce, 1 Red Spice, 1 Fatty Chubby Earthworm ^000000
+วิธีปรุง:
+	1. Dragon Skinมักจะเหนียว,ดังนั้นต้องให้ทำให้นุ่มโดยการทุบมัน.
+	2. ตัด Dragon Tails เป็นชิ้นขนาดพอคำ.
+	3. หั่น Royal Jellys เป็นชิ้นหนา, เฉือน Yggdrasil Leaves บางๆ.
+	4. ล้าง Fatty Chubby Earthworm,และต้มน้ำให้เดือดเป็นเวลา 10 นาที.
+	5. ตักearthwormออกจากน้ำซุบเมื่อได้รสชาติ.ใส่Spicy Sauceและ Red Spice, Dragon Skin, Dragon Tails,และ Royal Jellys ในน้ำซุบ,และต้มให้เดือดอีกครั้ง.
+	6. เมื่อ Dragon Skin และ Dragon Tails พร้อมใช้แล้ว เพิ่มYggdrasil Leaves ต้มอีกแป๊บเป็นใช้ได้.
 
-^400080Blood Flavored Soda:^000000 peculiar soda whose flavor is a little coppery... kind of like blood.
-Ingredients: ^4b00821 Animal Gore, 2 Anodyne, 2 Aloe Vera, 2 Alcohol, 6 Royal Jellys, 
-                   1 Red Spice, and 10 Apple Juice ^000000
-Directions: 
-	1. Chop up 1 Aloe Vera, and soak the chopped Aloe Vera in water at 20 Celsius 
-                    for 5 minutes.
-	2. Chop up the other Aloe Vera. Fill up a 3.7 liter water bottle with 
-                    the chopped Aloe Vera, sugar, and water, and shake well for at least 
-                    2 minutes, until the sugar crystals are no longer visible.
-	3. Close the bottle's lid, and leave it for 4 to 6 days at room temperature.
-	4. Cut Royal Jellys to bite sized pieces, and mix them in Apple Juice by using a mixer.
-	5. Add the aged Aloe Vera soda, Alcohol, and Anodyne to the juice mixture, and mix them 
-                    for 30 seconds longer.
-	6. Pour the soda into a glass, and serve with Red Spice sprinkled on top.
+^400080Blood Flavored Soda:^000000โซดาซึ่งมีรสชาติแปลกประหลาด... เหมาะกับคนที่ชอบเลือด.
+ส่วนผสม: ^4b00821 Animal Gore, 2 Anodyne, 2 Aloe Vera, 2 Alcohol, 6 Royal Jellys, 1 Red Spice, and 10 Apple Juice ^000000
+วิธีปรุง: 
+	1. สับ 1 Aloe Vera, และแช่ Aloe Vera ในน้ำที่ 20 องศาเซลเซียส 5 นาที.
+	2. สับ  Aloe Vera ที่เหลือ. เติมน้ำ 3.7 ลิตร ใน ขวด  ใส่ Aloe Vera สับ, น้ำตาล , และน้ำ, และเขย่า ให้เข้ากัน 2 นาที, จนกระทั่งเกล็ดน้ำตาลหายไป.
+	3. ปิดฝาขวด,และปล่อยทิ้งไว้ที่อุณหภูมิห้อง 4-6 วัน.
+	4. หั่น Royal Jellys ให้มาชิ้นขนาดพอคำ,และ ผสม กับ Apple Juice ให้เข้ากัน.
+	5.เติม Aloe Vera soda, Alcohol, และ Anodyne ในน้ำผลไม้ที่ผสมแล้ว, เขย่าให้กันประมาณ 30 วินาที.
+	6. เทโซดาลงในแก้ว , และ เสริฟ์พร้อมกับ Red Spice ที่โรยอยู่ผิวบน.

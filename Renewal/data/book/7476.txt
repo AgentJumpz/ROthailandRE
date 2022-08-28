@@ -1,79 +1,60 @@
 %faf0e6
-^000088Be reborn as a true chef, and enter the cooking world of the gods!^000000
+^000088การกลับมาอีกครั้งของพ่อครัวมือฉกาจ, และสุดยอดอาหารระดับโลกเหมือนประทานมาจากพระเจ้า!^000000
 
-Not everyone can become a chef, but it couldn't hurt to study this recipe book!
+ใช่ว่าทุกคนจะสามารถเป็นพ่อครัวได้ , แต่มันก็ไม่ได้ทำให้เสียความรู้สึกจากการเรียนรู้ตำรับอาหารนี้!
 
 
-^ff0000Lutie Lady's Pancake:^000000 recreate the delicious taste of Lutie lady's pancake on your own!
-Ingredients: ^4b008210 Potatoes, 2 Honey, 1 Cooking Oil, 3 Carrots, 1 Bag of Grain ^000000 
-Directions:
-	1. Make mashed potatos by boiling Potatos and crushing them.
-	2. Cut the Carrots into slices.
-	3. Grind the Grain to make flour, and mix the grain powder with egg, mashed potatos, 
-                    Carrot slices, and water, and then knead.
-	4. Heat a pan over high heat, and oil the pan.
-	5. Add a batch of the dough, and fry it until it is a crisp, golden brown.
+^ff0000Lutie Lady's Pancake:^000000ผ่อนคลายกับการลิ้มรส Lutie lady's pancake ในรูปแบบของตัวคุณเอง!
+ส่วนประกอบ: ^4b008210 Potatoes, 2 Honey, 1 Cooking Oil, 3 Carrots, 1 Bag of Grain ^000000 
+วิธีปรุง:
+	1. ทำมันบด โดยต้มมันฝรั่งให้สุกและบดละเอียด.
+	2. หั่นแครอทให้เป็นชิ้นบาง บาง.
+	3. โม่ข้าวให้ละเอียดเพื่อทำแป้ง,และผสมแป้งกับไข่, มันบด, แครอทหั่นฝอย, และน้ำ,และผสมให้เข้ากัน.
+	4. ตั้งกะทะให้ร้อนจัด,และทาน้ำมันในกะทะให้ทั่ว.
+	5. ใส่แป้งที่ผสมไว้,และทอดจนกระทั่งแผ่นแป้งเป็นสีเหลืองทอง จึงใช้ได้.
 
-^0000ffMastela Fruit Wine:^000000 this purple wine is very tempting, 
-                                           but don't drink and drive your PecoPeco!
-Ingredients: ^4b00824 Mastela Fruits, 1 Blue Potion, 2 Alcohol, 2 Lemons, 1 Yellow Spice ^000000 
-Directions: 
-	1. Squeeze 3 Mastela Fruits and Lemon to make Mestela Fruit juice and Lemon juice.
-	2. Add 1 Alcohol and the lemon juice to a mixer, and mix for 20 seconds.
-	3. Add 1 Blue Potion, 1 Alcohol, and MastelaJuice to the mixer, and mix 
-                    for another 5 seconds..
-	4. Pour the mixed Mastela Wine to a glass. Sprinkle Yellow Spice on top, and garnish 
-                    the glass with the remaining half Mastela Fruit.
+^0000ffMastela Fruit Wine:^000000ไวน์องุ่นสีม่วงเป็นล่อใจของผู้พบเห็น,แต่นั้นไม่ควรดื่มขณะการขับขี่ PecoPecoของคุณ!
+ส่วนประกอบ: ^4b00824 Mastela Fruits, 1 Blue Potion, 2 Alcohol, 2 Lemons, 1 Yellow Spice ^000000 
+วิธีปรุง: 
+	1. คั้น Mastela Fruits3 ผล และมะนาว เพื่อทำน้ำ Mestela and น้ำ Lemon.
+	2. เพิ่ม1 Alcohol และ น้ำมะนาว ผสมให้เข้ากัน,ใช้เวลาผสม 20 วินาที.
+	3. เติม 1 Blue Potion, 1 Alcohol,และน้ำ Mastela ผสมให้เข้ากัน,เพียงแค่ 5 วินาที..
+	4. เทส่วนผสมของไวน์ สีม่วงลงในแก้ว. ประดับด้วย Sprinkle Yellow ที่ปากแก้ว, และอีกครึ่งแก้วประดับด้วยผล Mastela .
 
-^800000Green Salad:^000000fresh green salad with sweet dressing.
-Ingredients: ^4b00822 Hinalle Leaflets, 3 Aloe Leaflets, 10 Sharp Leaves, 6 Huge Leaves, 
-                   1 Sweet Sauce, 1 Yellow Spice ^000000 
-Directions:
-	1. Slice the Hinalle Leaflets, soak the slices shortly in cold water, and then dry.
-	2. Sort the soft Sharp Leaves, cut them into 5 cm pieces. Afterwards, cut the leaf pieces 
-                    into thirds. Soak the slices shortly in cold water, and then dry.
-                3. Roll the Huge Leaves, and cut the rolled Huge Leaves into slices. 
-                    Briefly soak the slices shortly in cold water, and then dry.
-	4. Remove thorns from the Aloe Leaflets, and then cut them into half. 
-                    Slice the Aloe Leaflet halves, briefly soak them in cold water, 
-                    and then dry.
-	5. Place a fistful of each vegetable next to each other. Serve with Sweet Sauce and 
-                    Yellow Space spread on top.
+^800000Green Salad:^000000สลัดสีเขียวสดราดด้วยน้ำซอสแสนหวาน.
+ส่วนประกอบ: ^4b00822 Hinalle Leaflets, 3 Aloe Leaflets, 10 Sharp Leaves, 6 Huge Leaves, 1 Sweet Sauce, 1 Yellow Spice ^000000 
+วิธีปรุง:
+	1. หั่น Hinalle Leafletsให้เป็นชิ้นบางๆ, แช่ในน้ำที่เย็นจัด,และนำขึ้นให้สะเด็ดน้ำ.
+	2. เลือก Sharp Leaves เอาแต่ใบที่อ่อน,ตัดให้มีความยาว 5 ซมต่อชิ้น.. หลังจากนั้น,หั่นใบไให้สั้น.แช่ใบที่หั่นแล้วในน้ำเย็น,และผึ่งให้แห้ง.
+ม้วนHuge Leaves,และหั่นให้บาง.แช่ใบที่หั่นแล้วลงในน้ำเย็น, นำขึ้นจากน้ำ .
+	3. เอาหนามออกจาก Aloe Leaflets, และผ่าครึ่ง. หั่น Aloe Leaflet ให้เป็นชิ้นบางๆ,จากนั้นแช่ในน้ำเย็นจัด,และนำขึ้นจากน้ำ.
+	4. จัดวางผักลงในจาน.เสริฟพร้อมกับ  Sweet Sauce และ วาง Yellow Space ไว้ด้านบน.
 
-^008040Steamed Bat Wing in Pumpkin:^000000 tender bat wings steamed inside a sweet pumpkin.
-Ingredients: ^4b0082 20 Wings of Red Bat, 20 Jack oกฏ Pumpkins, 1 Pot, 10 Hinalle Leaflets, 
-                   10 Red Herbs ^000000 
-Directions:
-	1. Cut the bat wings into bite size pieces, and then cut Hinalle Leaflets and Red Herbs 
-                    into thick slices.
-	2. Oil a pan, and fry the bat wings for a while, and then add Hinalle Leaflet slices. 
-                    Continue frying.
-	3. When the bat wings are well cooked, add Red Herb slices and salt.
-	4. Cut a Jack o' Pumkin into 6 lengthwise pieces, and then scrape off the pulp and seeds 
-                    from the pumpkin pieces.
-	5. Reassemble the pumpkin pieces, and then put the fried bat wings inside.
-	6. Steam the pumpkin and bat wings for 15 minutes before serving.
+^008040Steamed Bat Wing in Pumpkin:^000000ปีกค้างคาวอ่อนอบสอดใสฟักทองหวาน.
+ส่วนประกอบ: ^4b008220 Wings of Red Bat, 20 Jack 'o Pumpkins, 1 Pot, 10 Hinalle Leaflets, 10 Red Herbs ^000000 
+วิธีปรุง:
+	1. ตัดปีกค้างคาวให้ชิ้นพอดีคำ,จากนั่นหั่น Hinalle Leaflets และซอย Red Herbsบางๆ.
+	2. ตั้งกะทะใส่น้ำมัน,และทอดปีกค้างคาวพอสุก, ต่อจากนั้นใส่ Hinalle Leaflet ที่หั่นแล้ว.นำลงไปทอดอีกครั้ง.
+	3. เมื่อปีกค้างคาวได้ที่แล้ว,ใส่ Red Herb ฝอยและเกลือ.
+	4. ตัด Jack o' Pumkin เป็น6ส่วน, และขูดเมล็ดฟักทองกับเนื้อที่ติดกับเมล็ดออกจากชิ้นฟักทอง.
+	5. ประกอบฟักทองเข้าด้วยกันใหม่,และวางปีกค้างคาวที่ทอดแล้วในนั้น.
+	6. อบผลฟักทองและปีกค้างคาว 15 นาที จึงใช้ได้.
 
-^ff8040Spicy Fried Bao:^000000crispy, fried transparent Baos.
-Ingredients: ^4b008220 Baos, 10 Yellow Herbs, 1 Spicy Sauce, 1 Red Spice, 20 Green Herbs ^000000 
-Directions: 
-	1. Cut Yellow and Green Herbs into pieces that are bigger than a Bao.
-	2. Fry Baos, and skim off the extra oil.
-	3. Line a plate with Green Herbs, and then place the Yellow Herbs and fried Baos 
-                    on the plate before spreading Spicy Sauce on top.
-	4. Sprinkle Red Spice, and then serve.
+^ff8040Spicy Fried Bao:^000000กร๊อบ,เมนูงูทอดกรอบเพียงแค่กัดก็รู้สึกถึงความกรอบ.
+ส่วนประกอบ: ^4b008220 Baos, 10 Yellow Herbs, 1 Spicy Sauce, 1 Red Spice, 20 Green Herbs ^000000 
+วิธีปรุง: 
+	1. หั่น Yellow และ Green Herbsให้มีชิ้นใหญ่กว่า เนื้อ Bao.
+	2. ทอด Baos, และตักขึ้นให้สะเด็ดน้ำมัน.
+	3. จัดจานด้วย Green Herbs, และวาง Yellow Herbs และ Baosทอดลงในจานโรยด้วยผง Spicy Sauce บนสุด.
+	4. โรยเครื่องเทศสีแดง,พร้อมเสริฟ์.
 
-^400080Fried Scorpion Tails:^000000 don't judge the taste by this dish's appearance!
-Ingredients: ^4b008220 Scorpion Tails, 10 Bug Legs, 10 Huge Leaves, 2 Old Frying Pans, 
-                    1 Cooking Oil ^000000 
-Directions:
-	1. Cut the Huge Leaves into thin slices.
-	2. Heat a frying pan over medium heat, and add 2 TS of Cooking Oil.
-	3. Fry the Bug Legs in the pan.
-	4. Prepare another frying pan in the same fashion, and then fry the Scorpion Tails 
-                    in the pan. These ingredients are cooked separately to keep from mixing 
-                    their tastes.
-	5. Once the Bug Legs and Scorpion Tails are crisp and golden brown, add the Huge Leaf 
-                    pieces, and then briefly fry them altogether.
-	6. Place a Huge Leaf on a plate, and place the fried Scorpion Tails and Bug Legs on it.
-	7. Serve with soy sauce.
+^400080Fried Scorpion Tails:^000000อย่าตัดสินรสชาติของอาหารจานนี้จากสายตา.
+ส่วนประกอบ: ^4b008220 Scorpion Tails, 10 Bug Legs, 10 Huge Leaves, 2 Old Frying Pans, 1 Cooking Oil ^000000 
+วิธีปรุง:
+	1. หั่น Huge Leavesและซอยบางๆ.
+	2. ตั้งกะทะให้อยู่ระดับกลาง,และ2 TS น้ำมันทำอาหาร.
+	3. ใส่ขาแมลงลงไปทอดในน้ำมัน.
+	4. เตรียมกะทะอื่นที่รูปร่างเหมือนกัน, และทอด Scorpion Tailsในกะทะ.  ส่วนประกอบพวกนั้นถูกผสมด้วยเครื่องปรุงรสชาติต่างกัน.
+	5. ขาแมลงทอดครึ่งนึงและ หางแมงป่องทอด สีเหลืองทอง , เพิ่ม Huge Leaf,และทอดอีกแปบ .
+	6. วาง Huge Leaf บนจาน,และจัดหางแมงป่องทอดและขาแมลง บนจานที่จัดไว้.
+	7. เสริฟ์ พร้อม soy sauce.

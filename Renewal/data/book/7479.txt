@@ -1,102 +1,73 @@
 %faf0e6
-^000088A book written by a lone chef wandering the Rune-Midgarts Kingdom!^000000
- - An impressive tome of poetic Level 8 cooking recipes -
-Indulge in the wondrous dishes of this lone chef's mysterious cooking world!
+^000088หนังสือที่ถูกเขียนขึ้นโดยพ่อครัวผู้โดดเดี่ยวซึ่งกำลังเดินท่องเที่ยวอยู่ในอาณาจักร Rune-Midgarts !^000000
+ - ตำราปรุงอาหารอันน่าประทับใจของกวี Level 8 -
+สิ่งมหัศจรรย์ที่เกิดขึ้นภายในอาหรจานนี้เป็นของพ่อครัวผู้โดดเดี่ยวและลึกลับที่ปรุงอาหารให้กับโลกแห่งนี้!
 
 
 ^ff0000Bearfoot Special :^000000 
-Ingredients: ^4b008220 Bear's Footskin, 10 Carrots, 10 Jack o' Pumpkins, 2 Aloe Leaflets, 
-                   1 Hinalle Leaflet, 1 Savory Sauce ^000000
-Directions: 
-	1. Soak the Bear's Footskin in water for a few hours.
-	2. Wash and rinse the soaked Bear's Footskin under cold running water, and parboil them. 
-                    Wash the parboiled Bear's Footskin once more, and score the meat with 
-                    cross cuts. Afterwards, wrap the meat with cotton cloth.
-	3. Boil the wrapped Bear's Footskin with water, salt, wine, and pepper. Skim the surface 
-                    when it bubbles, and then add ginger and green peppers.
-	4. Simmer the broth for a few hours.
-	5. Cut the Carrots and Jack o' Pumpkins into slices, and parboil the slices.
-	6. Wash the leaflets, and fry them with salt. Serve half of the fried leaflets on 
-                    a plate, and put the steamed Bear's Footskin on them. Use the rest of 
-                    the leaflets to garnish the plate with the parboiled carrots and pumpkins.
-	7. Add Savory Sauce to the Bear's Footskin broth, and boil the broth a little longer. 
-                    When the broth thickens, add olive oil, and then pour the  broth on 
-                    the steamed Bear's Footskin.
-Note: Bear's Footskin has distinctive smell. Make sure to remove all the hair and dirt 
-before cooking, frequently change water while soaking the Footskin, and steam using 
-the highest heat setting.
+ส่วนผสม : ^4b008220 Bear's Footskin, 10 Carrots, 10 Jack o' Pumpkins, 2 Aloe Leaflets, 1 Hinalle Leaflet, 1 Savory Sauce ^000000
+วิธีปรุง :
+	1. นำ Bear's Footskin แช่ในน้ำไว้ประมาณไม่กี่ชม. .
+	2. นำ Bear's Footskin มาล้างและทำความสะอาดอีกครั้งด้วยน้ำสะอาด , และนำไปต้มให้กึ่งสุกกึ่งดิบ. นำ Bear's Footskin ที่กึ่งสุกกึ่งดิบนั้นมาล้างทำความสะอาดอีกครั้ง, และนำมาหั่นเป็นรอยกากบาทบาง ๆ บนชิ้นเนื้อ. หลังจากนั้น, นำเนื้อมาห่อด้วยเสื้อผ้าฝ้าย.
+	3. นำ Bear's Footskin ที่ห่อแล้วมาต้มกับน้ำ, เกลือ, ไวน์, และพริกไทย. ให้ตักฟองอากาศตรงผิวน้ำออกขณะที่ต้มอยู่, และจากนั้นให้เติมขิงและพริกไทยสีเขียวลงไป.
+	4. ตุ๋นน้ำซุปต่ออีกซักเล็กน้อย .
+	5. หั่น Carrots และ Jack o' Pumpkins เป็นแผ่นบาง ๆ , และนำไปต้ม ไม่ต้องให้สุกมากเกินไป .
+	6. นำ leaflets ไปล้างน้ำ, และนำไปทอดกับเกลือ. เสิร์ฟ leaflets ที่ทอดเตรียมไว้บนจาน, และวาง Bear's Footskin ที่อบเตรียมไว้บน  leaflets ที่เตรียมในจาน. ใช้ leaflets ที่เหลือมาตกแต่งจานกับ carrots ที่ต้มไว้แบบไม่สุกมากและ pumpkins .
+	7. ใส่ Savory Sauce ลงในซุป Bear's Footskin , และต้มซุปต่ออีกซักระยะ. เมื่อซุปข้นขึ้นแล้ว, ใส่น้ำมันมะกอก, และจากนั้นให้ราดน้ำซุปที่ได้ลงบน Bear's Footskin ที่อบเตรียมไว้แล้ว .
+Note: Bear's Footskin จะมีกลิ่นที่เป็นเอกลักษณ์เฉพาะตัว . ดูให้แน่ใจว่าเอาขนและสิ่งสกปรกออกหมดก่อนนำมาปรุง, ล้างน้ำบ่อย ๆ จนกระทั่ง Footskin นั้นเปียกชุ่มดี , และเวลานำไปอบให้ใช้ความร้อนสูง .
 
-^0000ffRoyal Family Tea:^000000 its taste depends on how it is blended.
-Ingredients: ^4b00824 Prickly Fruits, 10 Hinalle Leaflets, 3 Yggdrasil Leaves, 10 Aloe Leaflets, 
-                   6 Royal Jellys, 1 Yellow Spice ^000000
-Directions: 
-	1. Roast well-dried Prickly Fruits and other herbal leaves.
-	2. Cut the roasted leaves to the desired length, and blend them. Use more Prickly Fruits 
-                    in the blend if you prefer a sour flavor, or more Hinalle Leaves 
-                    if you prefer a bitter flavor.
-	3. Heat water, and pour the heated water into a tea pot before it reaches a boil.
-	4. Infuse small sized leaves for 2 to 3 minutes, and large size leaves for 
-                    3 to 4 minutes.
-	5. Add Royal Jelly and Yellow Spice to taste before drinking.
+^0000ffRoyal Family Tea:^000000 รสชาติของมันขึ้นอยู่กับว่าจะถูกผสมผสานได้ดีแค่ไหน.
+ส่วนผสม : ^4b00824 Prickly Fruits, 10 Hinalle Leaflets, 3 Yggdrasil Leaves, 10 Aloe Leaflets, 6 Royal Jellys, 1 Yellow Spice ^000000
+วิธีปรุง :
+	1. นำ Prickly Fruits และใบสมุนไพรอื่น ๆ มาอบจนแห้งดี .
+	2. หั่นใบที่ได้อบเตรียมไว้แล้วตามความยาวที่เราต้องการ,และคลุกเคล้าให้เข้ากัน. ใช้ Prickly Fruits ผสมลงไปหากต้องการรสชาติเปรี้ยว, หรือใช้ Hinalle Leaves ถ้าต้องการรสชาติขม .
+	3. เตรียมน้ำร้อน, และเทน้ำลงในหม้อน้ำชาก่อนที่จะนำไปต้มให้เดือด .
+	4. ใส่ใบที่มีขนาดเล็กลงไปต้มซัก 2 ถึง 3 นาที, และใบที่มีขนาดใหญ่ลงไปต้มซัก 3 ถึง 4 นาที .
+	5. ใส่ Royal Jelly และ Yellow Spice เพื่อเพิ่มรสชาตที่ดีก่อนดื่ม .
 
-^800000Special Toast:^000000 toast made with unconventional ingredients!
-Ingredients: ^4b008210 Bread, 2 Royal Jellys, 5 Meat, 10 Strawberries, 1 Spicy Sauce, 10 Cheese, 
-                   1 Sweet Sauce ^000000
-Directions: 
-	1. Grind Meat, and then mix in Spicy Sauce.
-	2. Make a meat patty using the minced meat, and cook it until it is well done.
-	3. Make a jam with the Strawberries, or just slice them if they're fresh.
-	4. Toast and butter 2 slices of Bread.
-	5. Spread strawberry jam on the side of one bread piece, and then put the meat patty 
-                    on top. Spread Spice Sauce, add a cheese slice, and top it with 
-                    the other bread piece.
-	6. If you use sliced fresh Strawberries, spread Spicy Sauce on one side of a bread piece, 
-                    and put the meat patty on top. Mix the Sweet Sauce with Royal Jelly, 
-                    and spread it on one side of the other bread piece, add a cheese slice 
-                    and sliced fresh strawberries on top.
-	7. Put the bread pieces together to make a sandwich.
+^800000Special Toast:^000000 ขนมปังปิ้งที่ไม่ได้ทำเหมือนสูตรอื่นทั่ว ๆ ไป !
+ส่วนผสม : ^4b008210 Bread, 2 Royal Jellys, 5 Meat, 10 Strawberries, 1 Spicy Sauce, 10 Cheese, 1 Sweet Sauce ^000000
+วิธีปรุง :
+	1. นำ Meat มาบด, และนำมาผสมกับ Spicy Sauce .
+	2. ทำพายเนื้อจากเนื้อสับ, และปรุงมันจนกระทั่งสุกดี .
+	3. ทำแยมด้วย Strawberries, หรือจะใช้แบบหั่นเป็นชิ้นบาง ๆ ก็ได้ถ้าพวกมันสด .
+	4. หั่นขนมปังออกเป็น 2 ชิ้นและทาด้วยเนย .
+	5. ทาแยม strawberry ลงบนด้านหนึ่งของขนมปัง, และจากนั้นวางพายเนื้อสดลงด้านบนสุด. ทา Spice Sauce, ใส่ cheese ที่หั่นไว้บาง ๆ, และวางขนมปังชิ้นอื่ นๆ ไว้ชั้นบนสุด .
+	6. ถ้าเจ้าใช้ Strawberries สดหั่นเป็นชิ้นบาง ๆ , ทา Spicy Sauce บนด้านหนึ่งของขนมปัง, และจากนั้นวางพายเนื้อสดลงด้านบนสุด. ผสม Sweet Sauce กับ Royal Jelly, และทางมันบนด้านหนึ่งของขนมปังชิ้นอื่น, ใส่ cheese ที่หั่นไว้บาง ๆและ strawberries สดที่หั่นไว้ด้านบนสุด .
+	7. และนำขนมปังทั้งหมดมาประกบกันให้กลายเป็นแซนวิช .
 
-^008040Incredibly Spicy Curry+9:^000000 spicy curry beyond imagination!
-Ingredients: ^4b00821 Aloe Vera, 1 Spicy Sauce, 10 Meat, 10 Hinalle Leaflets, 10 Jack o' Pumpkins, 
-                    10 Carrots ^000000
-Directions: 
-	1. Dry Aloe Vera and Hinalle Leaflets, and then pulverize them into powder.
-	2. Mix the powders at your desired ratio.
-	3. Cut Meat to 2 cm squares, and sprinkle salt and pepper. 
-	4. Cut the Jack o' Pumpkins and Carrots into squares, and fry them with butter.
-	5. Fry the cut meat separately from the vegetables. Add the fried vegetables 
-                    when the meat is half cooked, and then fry thema little longer.
-	6. Add the Aloe Vera and Hinalle powder and water to the pan.
-	7. Boil down the mixture, add Spicy Sauce, and continue boiling down 
-                    until the curry thickens.
+^008040Incredibly Spicy Curry+9:^000000 แกงที่มีรสชาติเผ็ดร้อนเกินกว่าที่จะสามารถจินตนาการได้ !
+ส่วนผสม : ^4b00821 Aloe Vera, 1 Spicy Sauce, 10 Meat, 10 Hinalle Leaflets, 10 Jack o' Pumpkins, 10 Carrots ^000000
+วิธีปรุง :
+	1. นำ Aloe Vera และ Hinalle Leaflets มาทำให้แห้ง , และนำมาบดให้เป็นผงแป้ง .
+	2. นำแป้งที่ได้มาผสมตามสัดส่วนที่เจ้าต้องการ .
+	3. หั่น Meat ให้เป็นสี่เหลี่ยมขนาด 2 cm , และโรยเกลือกับพริกไทย . 
+	4. หั่น Jack o' Pumpkins และ Carrots เป็นรูปสี่เหลี่ยม , และนำไปทอดกับเนย .
+	5. นำเนื้อที่หั่นไว้มาทอดเช่นกัน โดยทอดแยกกับผักที่ทอดแล้ว. ใส่ผักที่ทอดเตรียมไว้แล้วลงไปเวลาที่ปรุงเนื้อไปได้ครึ่งหนึ่ง, และทอดส่วนผสมทั้งหมดต่ออีกซักระยะ .
+	6. ใส่ผง Aloe Vera และ Hinalle และน้ำลงในกระทะ .
+	7. ต้มส่วนผสมทั้งหมดเข้าด้วยกัน, ใส่ Spicy Sauce, และต้มต่ออีกครั้งจนกระทั่งแกงนั้นข้น .
 
-^ff8040Giant Burrito:^000000 big enough to share with friends!
-Ingredients: ^4b008220 Fig Leaves, 20 Meat, 5 Rainbow Carrots, 10 Jack o' Pumpkins, 
-                   1 Savory Sauce, 2 Bags of Grain ^000000
-Directions:
-	1. Peel off the skin from the Fig Leaf stems. Steam the Fig Leaves with Jack o' Pumpkin, 
-                    and then cool them under running water.
-	2. Soak Meat in water to remove excess blood, and then tie the Meat with thread.
-	3. Boil Carrots and Jack o' Pumpkins in water to make broth.
-	4. Put the tied Meat in the Carrot and Jack oกฏ Pumpkin broth, and boil for 40 minutes. 
-                    Add Savory Sauce taste.
-	5. When the Meat is cooked, turn off the heat, and allow it to cool.
-	6. Cut the Meat into thin slices.
-	7. Winnow out the chaff from the grain, and cook some rice.
-	8. Cut the Carrots into thin slices, and fry them.
-	9. Lay out a Fig leaf, and fold the stem toward the leaf.
-	10. Put the rice, meat slices, carrot slices, and cooked Jack o' Pumpkin on the leaf.
-	11. Spread Savory Sauce, and roll the leaf to make... a burrito?
+^ff8040Giant Burrito:^000000 ใหญ่มากพอที่จะสามารถแบ่งเพื่อน ๆ กินได้เลยทีเดียว !
+ส่วนผสม : ^4b008220 Fig Leaves, 20 Meat, 5 Rainbow Carrots, 10 Jack o' Pumpkins, 1 Savory Sauce, 2 Bags of Grain ^000000
+วิธีปรุง :
+	1. ปอกเปลือกของ Fig Leaf  ออกจากลำต้น. นำ Fig Leaves และ Jack o' Pumpkin ไปอบด้วยกัน, และนำไปล้างน้ำ .
+	2. นำเนื้อ Meat ไปล้างน้ำเพื่อเอาเลือดที่ติดออกให้หมด, และนำ Meat มามัดด้วยเส้นด้าย .
+	3. ต้ม Carrots และ Jack o' Pumpkins ในน้ำเพื่อทำน้ำซุป .
+	4. วาง Meat ที่มัดด้วยเส้นด้ายลงในน้ำซุป Carrot และ Jack oPumpkin ที่เตรียมไว้, และต้มเป็นเวลา 40 นาที. ใส่ Savory Sauce เพื่อเพิ่มรสชาติ .
+	5. เมื่อปรุง Meat เสร็จแล้ว, ให้ปิดไฟที่เตา, และปล่อยให้มันเย็น .
+	6. หั่น Meat เป็นชิ้นบาง ๆ .
+	7. นำข้าวมาสีเพื่อเอาเปลือกออก, และนำข้าวมาปรุง .
+	8. หั่น Carrots เป็นชิ้นบาง ๆ, และนำมาทอด .
+	9. เตรียม Fig leaf, และพับลำต้นเข้าไปทางใบ .
+	10. วางข้าว, เนื้อที่หั่นไว้, แครอทที่หั่นไว้, และ Jack o' Pumpkin ที่ปรุงไว้ลงบนใบไม้ .
+	11. ทา Savory Sauce, และ ม้วนใบเพื่อทำเป็น...  burrito?
 
-^400080Strawberry Flavored Rice Ball:^000000 a delicious rice ball, 
-                                                               also known as Poring Flavored Rice Ball.
-Ingredients: ^4b008210 Strawberries, 5 Bags of Grain, 10 Fig Leaves, 1 Yellow Spice, 2 Red Spice, 
-                   1 Savory Sauce ^000000
-Directions:
-	1. Winnow away the chaff from the grain, and cook rice.
-	2. Squeeze strawberries to produce strawberry juice.
-	3. Put the cooked rice in a large bowl, and let it cool.
-	4. Add Savory Sauce, Yellow Spice, and strawberry juice to the rice, 
-                    and mix together well. 
-	5. Grab a fistful of rice to make a ball, and wrap it with a parboiled Fig Leaf.
+^400080Strawberry Flavored Rice Ball:^000000ข้าวที่ปั้นเป็นทรงกลมแสนอร่อย , รู้เพียงอย่างเดียวว่า Rice Ball เป็นของโปรดของเจ้า Poring เลยทีเดียว .
+ส่วนผสม : ^4b008210 Strawberries, 5 Bags of Grain, 10 Fig Leaves, 1 Yellow Spice, 2 Red Spice, 1 Savory Sauce ^000000
+วิธีปรุง :
+	1. นำข้าวมาสีเพื่อเอาเปลือกออก, และนำข้าวมาปรุง .
+	2. คั้น strawberries เพื่อมาทำเป็นน้ำ strawberry .
+	3. นำข้าวที่เตรียมไว้แล้วมาใส่ในชามใบใหญ่, และปล่อยให้มันเย็น .
+	4. ใส่ Savory Sauce, Yellow Spice, และน้ำ strawberry ลงในข้าว, และผสมให้เข้ากันเป็นอย่างดี . 
+	5. แล้วนำข้าวที่ได้มาปั้นเป็นทรงกลม , และนำมาห่อด้วย Fig Leaf.
          

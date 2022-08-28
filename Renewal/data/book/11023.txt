@@ -1,164 +1,164 @@
-^000088 Study of explosive strength improvement by world famous Alchemist Darcya ^000000
+^000088 การศึกษาเกี่ยวกับการปรังปรุงแรงระเบิด โดย Alchemist Darcya ผู้มีชื่อเสียงระดับโลก^000000
 
 
-I am the Alchemist Darcya. Do you hear me? Yes, you!
-I believe you bought this book because you're an Alchemist, right?
-If you're not an Alchemist... I'll remind you again this book is useless
-if you're not a job class who can use special pharmacy!
+ข้าคือ Alchemist Darcya เจ้าฟังที่ข้าพูดอยู่ใช่มั้ย? ใช่แล้ว, เจ้านั่นแหละ!
+ข้าเขื่อว่าที่ซื้อหนังสือเล่มนี้มา เพราะเจ้าคือหนึ่งใน Alchemist, ใช่มั้ย?
+ถ้าเจ้าไม่ใช่ Alchemist... ข้าขอเตือนเจ้าอีกครั้ง หนังสือเล่มนี้มันจะไม่มีประโยชน์กับตัวเจ้าเลย
+ถ้าเจ้าไม่ใช่อาชีพที่มีความสามารถในการปรุงยาพิเศษได้!
 
-That means, this book is "of the Alchemist, for the Alchemist, by the Alchemist"!
+นั่นจึงหมายถึง, หนังสือเล่มนี้ คือ "ของ Alchemist, สำหรับ Alchemist, โดย Alchemist"!
 
-Are you trying to proceed to main pages because the prologue is little bit tedious?
-This country is ruined because of guys like you who are so inattentive and don't 
-try to read a book until the last page! 
+นี่เจ้ากำลังพยายามจะเปลี่ยนหน้าไปยังเนื้อหาเพราะเปิดมาก็เจอกับเรื่องที่น่าเบื่อเช่นนี้รึ?
+ที่ประเทศนี้เสื่อมโทรมลงไปมากก็เพราะมีคนเช่นเจ้าผู้ที่ไม่สนใจฝักไฝ่และไม่
+มีความพยายามในการที่จะอ่านมันไปจนถึงน่าสุดท้าย!
 
-These days, they don't want to read a book and addicted to something like MMO or FPSกฆ
-so they don't want to listen to others and they can't speak neatly and clearly
-what they want to insist! It's no use of study at school for 10 or 20 years, if they aren't interested in
-study, but just attend school for the next step of education. There's no development for them!
+ในตอนนี้, พวกคนเหล่านี้กลับไม่ชอบการอ่านหนังสือ แต่กลับไปสนอดสนใจในบางสิ่งบางอย่าง เช่นพวก MMO หรือ FPS
+ดังนั้นพวกเขาจึงไม่คิดที่จะฟังเสียงของผู้อื่น และพวกเขาไม่สามารถที่พูดอย่างสุภาพและชัดเจนได้
+อะไรที่พวกเขาต้องการในขณะนี้! มันไม่มีประโยชน์ในการเรียนที่โรงเรียนเป็นเวลา 10 หรือ 20 ปีเลย, ถ้าพวกเขาไม่มีความสนใจใน
+การเรียน, แม้แต่ความสนใจในการศึกษา ในขั้นต่อไป มันไม่เป็นการพัฒนาตัวเองเอาเสียเลย!
 
-You may feel like I'm giving you a long lecture, but keep it in mind
-that this lecture could be a foundation fot your life! 
+เจ้าอาจจะคิดว่าข้าเขียนอะไรมายืดยาว, แต่จงเก็บมันเอาไว้
+การบรรยายนี้อาจจะเป็นรากฐานในการดำเนินชีวิตของเจ้าต่อไปภายภาคหน้า! 
 
-Then, I'll let you know how to make a improving strength potion for youกฆ Before we begin!
+ต่อจากนี้, ข้าจะสอนเจ้าในเรื่องว่า วิธีการสร้างผลิตน้ำยาที่เพิ่มความแข็งแกร่งให้แก่ตัวของเจ้า แต่ก่อนที่จะเริ่ม!
 
-Frankly speaking, I, Darcya hate lazybones who don't want to make efforts 
-and just want to follow this book! So I won't let you know the exact recipe.
-Follow me, if you can. Are you ready?! Here we go! 
+ขอพูดตรงไปตรงมาเลยนะ, ข้า, Darcya เกลียดคนที่ขี้เกียจและไร้ซึ่งความพยายาม
+และต้องการเพียงแต่ปฏิบัติตามในหนังสือเล่มนี้! ดังนั้นข้าจะไม่บอกสูตรที่แน่นอนให้แก่เจ้า
+ตามข้ามา, ถ้าเจ้าสามารถ พร้อมแล้วหรือยัง?! งั้นเราไปกันเลย! 
 
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 
-First of all, we need a empty bottle. It's better to wash it and dry under the sun light.
-I'll reject some bottles from internal organs of a monster! 
-Basically, if you're learning special pharmacy, you can make 10 ea at once.
-So prepare empty bottles following the numbers. Actually, 1 or 2 more bottles can be produced,
-but it depends on the size of the bottle. Not my fault.
+สิ่งแรกในการเริ่มต้นคือ, เราต้องการขวดเปล่า มันง่ายต่อการทำความสะอาดและทำให้แห้งภายใต้แสงอาทิตย์
+ข้าจะไม่ยอมรับขวดบางชิ้นที่ตกมาจากอวัยภายในของพวก monster! 
+ขั้นพื้นฐาน, ถ้าเจ้าเรียนรู้การปรุงยาขั้นพิเศษนี้, เจ้าสามารถสร้าง 10 ขวดได้ภายในหนึ่งครั้ง
+ดังนั้นจงเตรียมขวดเปล่าตามจำนวน ในความเป็นจริง, 1 หรือมากกว่า 2 ก็สามารถที่จะสร้างได้,
+แต่มันขึ้นอยู่กับขนาดของขวด ซึ่งมันไม่ใช่ความผิดของข้า
 
-If produced less than ten, it's because you tried it absentmindedly! 
-Or the empty bottles were too big, so it couldn't be total ten. If you prepare
-proper empty bottles and put proper amounts, there's no chances of overflow or shortage!
+ถ้าผลิตได้น้อยกว่าสิบ, มันเกิดจากที่เจ้าขาดความพยายามใส่ใจ! 
+หรือไม่ก็ขวดเปล่านั้นมีที่ใหญ่เกินไป, ดังนั้น มันอาจจะไม่เท่ากับสิบพอดี ถ้าเจ้าเตรียม
+ขวดเปล่าที่เหมาะสม และนำมาในปริมาณที่เหมาะสม, มันจะไม่มีทางขาดหรือเกินได้เลย!
 
-Head up or move your fingers more deligently! If even it doesn't work, 
-hunt monsters until you exhausted! 
+จงมุ่งมั่นและทำมันออกมาด้วยความตั้งใจ! ถ้ามันยังไม่สามารถที่จะใช้งานได้, 
+ล่า monster จนกว่าเจ้าจะหมดแรงลง! 
 
-For your reference, I'll tell you one thing. It needs always same numbers of empty bottle
-to make 3 kinds of HP increase potion! I gave you so many hints until now, but if you aske me 
-how many bottles do I need?, then I'll blow you with Hammerfall! 
+สำหรับการอ้างอิงของเจ้า, ข้าจะบอกอะไรเจ้าให้รู้ไว้สิ่งหนึ่ง มันต้องการจำนวนของขวดเปล่าในปริมาณที่เท่ากันเสมอ
+ในการสร้าง น้ำยาฟื้นฟู HP ทั้ง 3 ชนิด! ข้าให้คำแนะนำแก่เจ้ามากมายจนถึงตอนนี้, แต่ถ้าเจ้าถามข้า 
+ว่าต้องการใช้ขวดเท่าไหร่?, ถ้าเป็นอย่างนั้น ข้าจะหวดเจ้าด้วย Hammerfall! 
 
-Next one is hot spice sauce. Hot spice sauce is used for the circulation of the blood
-Like hot and spicy foods makes sweats from our body and improve the circulation of the blood,
-this sauce helps the circulation of the blood in our body, so it lets our body get more vigorous strength.
-Of course, it's hot. Absolutely it has side effects, the risk is insignificant compared to the effect.
-If I eat this hot pepper and can run 100 meter more, I could eat more than 100 peppers!
-But only the hot pepper can't make you run 100 meter more! 
-Does.. Does any one of you are thinking that put this hot pepper into your mouth and run...?
-I believe there's no one think like that..
-You need to put only 1 Hot Sauce per each potion. Occasionally someone put 2-3 ea by mistake,
-It just makes your mouth burning. You know, medicines are most effective when you exactly follow
-the dosage and instruction! 
+สิ่งต่อไป คือ hot spice sauce, Hot spice sauce ใช้สำหรับการไหลเวียนของเลือด
+เหมือนกับความร้อนและความเผ็ดของอาหารที่จะทำให้เหงื่อออกจากร่างกายของเรา เพราะมันเป็นตัวเร่งปฏิกริยาการไหลเวียนของเลือด,
+ซอสนี้จะช่วยในการไหลเวียนของเลือดในร่างกายของเรา,ดังนั้น มันจึงช่วยให้ร่างกายของเราแข็งแรงมากยิ่งขึ้น
+และแน่นอน, ความเผ็ดของมัน มีผลข้างเคียงแน่นอน, ความเสี่ยงนี้เกิดผลเล็กน้อยเมื่อเทียบกับผลลัพธ์ที่ได้
+ถ้าข้าทานพริกนี้ข้าจะสามารถวิ่งได้มากกว่า 100 เมตร แน่นอน, ข้าจะทานมันมากกว่า 100 ชิ้นให้ดู!
+แต่แค่พริกอย่างเดียว ย่อมไม่สามารถทำให้เจ้าวิ่งได้มากกว่า 100 เมตรได้แน่! 
+อ่า.. คงไม่มีใครคิดที่จะใส่พริกนี้เข้าปากแล้วเริ่มที่จะออกวิ่งหรอกนะ...?
+ข้าเชื่อว่าคงไม่มีใึครคิดอะไรแบบนั้น..
+เจ้าเพียงแค่ใส่ 1 Hot Sauce ต่อหนึ่งขวดยา แต่บางคนก็มีการใส่ 2-3 ชิ้่น แบบผิดๆ,
+มันจะทำให้ปากของเจ้าไหม้ เจ้ารู้ใช่มั้ย, ยานั้นจะให้ประสิทธิภาพสูงสุดเมื่อเจ้าทำตรงตามที่บอกไว้
+ทั้งปริมาณ และ วิธีการใช้! 
 
-Now, let's begin with simple thing. Ingrediants are something that monsters like.
-And we need a small amount of herb which is used for White Potion.
+ตอนนี้, เริ่มจากบางสิ่งที่ง่ายๆก่อน ส่วนผสมเป็นบางอย่างที่เป็นที่โปรดปรานของเหล่า monster
+และเราต้องการเพียงปริมาณเล็กน้อยของสมุนไพรที่มีไว้ใช้ทำ White Potion
 
-Well, I told you almost everything.
+เยี่ยม, ข้าบอกเจ้าเกือบหมดแล้ว
 
-Let's review.
+ทบทวน
 
-What's the basic material for all potions?  [Empty Bottle] , and [Hot Sauce]! 
+อะไรคือวัตถุดิบพื้นฐานสำหรับ Potion ทุกชนิด?  [Empty Bottle] , และ [Hot Sauce]! 
 
-Materials for HP Increase potion (Small)  are [the thing monster likes] and [the herb is for white potion
+วัตถุดิบของ HP Increase potion (Small)  คือ [ที่โปรดปรานของเหล่า monster] และ [สมุนไพรที่ใช้ทำ White Potion
 ] 
 
- I think you guys already got enough hints to make the 
+ข้าคิดว่าเจ้าคงได้รับคำแนะนำเพียงพอที่จะสร้าง
 Potion of Darcya! 
 
-For the foolish boys like you, I'll give you another hint.
-You should find out how many pieces have to put in! 
+สำหรับคนที่ไม่ค่อยฉลาดอย่างเจ้า, ข้าจะให้คำแนะนำอื่น
+เจ้าควรจะลองศึกษาดูว่า ต้องใส่ลงไปจำนวนกี่ชิ้น! 
 
-Then let's go to next step! Actually I want to explain more about the remedial effects of this,
-but also I have complicated circumstance behind this matter! 
+หลังจากนั้นจึงค่อยไปยังขั้นตอนถัดไป! อันที่จริง ข้าอยากจะอธิบายถึงผลกระทบต่อมัน,
+แต่ด้วยจากที่ข้ามองว่ามันยังมีความซับซ้อนต่อผลกระทบที่จะเกิดขึ้นนี้! 
 
-I know some of you still want to know the effect or duration of the HP Increase potion...
-There's no other way than to tell you. Cuz I'm such a generous man! 
+ข้ารู้ว่าเจ้ายังคงต้องการทราบเรื่องเกี่ยวกับระยะเวลาการแสดงผลของน้ำยาเพิ่ม HP ...
+มันไม่มีทางอื่นมากกว่าการที่จะได้บอกกับท่าน ก็เพราะว่าข้านั้นเป็นคนที่ใจกว้าง! 
 
-I made this HP Increase potion when I was 34 years old. It became really hard to
-do once in a day from 30...  Hmm hmm.. Anyway  
-Ma.. My health became wea.. weakened! 
+ข้าเริ่มสร้างน้ำยาฟื้นฟู HP นี้เมื่อข้าอายุได้ 34 ปี มันเป็นเรื่องยากที่จะ
+ทำมันครั้งเดียวในวันที่ 30...  อืม อืม.. อย่างไรก็ตาม
+สะ.. สุขภาพของข้าเริ่มที่จะ.. อ่อนแอ! 
 
-Jogging from Prontera to Aldebaran was the regular beginning of a day,
-but from one day, it became really hard to running aroun Prontera.
-That means you're already an old man.
-But it's their fault to care their body!
+การวิ่งออกกำลังกายจากเมือง Prontera ไปยัง  Aldebaran เป็นเพียงแค่จุดเริ่มต้นเล็กๆของวัน,
+แต่แล้ววันหนึ่ง, มันกลับเป็นเรื่องยากทั้งๆที่วิ่งแค่รอบๆเมือง Prontera
+นั่นมันหมายความว่าอย่างไรรู้หรือไม่ นั่นมันหมายถึงเจ้าได้แก่ตัวลงแล้ว
+แต่มันเป็นความผิดของตัวพวกเขาเองในการดูแลตัวเอง!
 
-Regular meals, plenty of sleep, and proper exercise as always you can keep wealth body!
-Although you try to use this kinds of medicine 
-You already have weak body and mental!! Gosh~!!
+อาหารปกติ, การนอนหลับอย่างเพียงพอ, และการออกกำลังกาย ที่เหมาะสมกับร่างกาย อันเป็นทรัพย์สินของตนเอง!
+ถึงแม้ว่าเจ้าจะลองทดสอบด้วยยาชนิดนี้
+แต่ร่างกายและจิตใจของเจ้าก็อ่อนแอลงไปแล้ว!! เฮ้อออ~!!
 
-But if you are already planning to buy it~! Should recognize proper method and effect to use!
-If so what's the correct effect of HP increase potion??
+แต่ เมื่อเจ้าได้วางแผนที่จะซื้อมันแล้ว~! เจ้าควรจะรู้วิธีใช้และผลลัพธ์ที่จะเกิดขึ้นเมื่อใช้มัน!
+ถ้าดังนั้น อะไรคือผลลัพธ์ที่ถูกต้องของน้ำยาเพิ่มค่า HP??
 
-There are two effect to increase HP up to maximum and recover just a little of HP!
-For your information the maximum HP will be decisioned based on your Vital and equipment grade!
-Won't you ask the Vital? If you want to ask it just go out and study more!
+มันมีผลลัพธ์สองประเภทคือเพิ่ม HP ของเจ้าจนเต็มค่าสูงสุด และ แบบเพิ่ม HP เพียงเล็กน้อย!
+สำหรับข้อมูลของค่า HP สูงสุดจะตัดสินโดยขึ้นอยู่กับความสำคัญของตัวเจ้ากับระดับของเครื่องสวมใส่!
+เจ้าจะไม่ถามเรื่องของความสำคัญในตัวเจ้ารึ? ถ้าเจ้าสนใจจะถามเราจะไปเรียนเพิ่มเติมกัน!
 
-Ok, How much maximum HP increase amount of increase potion?
-Is there anyonw who knows answer? What? 1000? Case of HP increase potion (S) is enable!
-Donกฏt' be silly~!!! Only when you reach up to highest level will be able!
-Surely such as person beginner like you when reach up to lv 150, 
-You won't check again this book never ever!!
+ตกลง, น้ำยาฟื้นฟูจะเพิ่มค่าHP สูงสุดเท่าไหร่ ?
+มีใครรู้คำตอบบ้างหรือไม่? เท่าไหร่? 1000? กรณีที่ใช้น้ำยาเพิ่มค่า HP ขวดเล็ก!
+อย่าโง่ไปหน่อยเลย~!!! เพียงแค่เจ้าไปถึงระดับสูงสุดของเลเวลที่สามารถจะไปถึงได้!
+แน่นอนเมื่อคนเริ่มที่จะถึงเลเวล 150, 
+เจ้าไม่เคยตรวจสอบหนังสือเล่มนี้อีกครั้งเลย ไม่เคย!!
 
-The right answer isกฆ. Nothing! Approximately case of the HP increase potion(S) give around
-800~1000 amount. That's all!! 
-The duration timeกฆ sorry but just within 10 min! I wanted to extend more high 
-Just left for your future information!
+คำตอบที่ถูกต้องคือ ไม่มีคำตอบที่ตายตัว!  ในกรณีนี้น้ำยาจะฟื้นค่า โดยเป็นค่าประมาณ
+800~1000 หน่วน นั่นคือทั้งหมด!! 
+ส่วนระยะเวลานั้น ขอโทษด้วยแต่มันอยู่เพียงแค่ 10 นาที! ข้ากำลังศึกษาให้มันสูงขึ้นอีก
+ที่เหลอืไว้สำหรับเป็นข้อมูลของเจ้าในอนาคต!
 
-HP Increase potion is quite is quite stronly effect on special class & beginners. 
-Be honest, this could ruin all of potion''s balance. 
-But it was the time before! 
-This world is flooded with lots of the youngs have strong minded.
-So I don't worry about it! 
-Though the potion I made causes problems, there's something coming out to detoxicate it.
-
-
-Now, let's get to know the Increase potion (m), (l). 
-are you ready?
-
-As I informed you before, I would give you brief explaination for making out Middle and Large potion.)
+น้ำยาฟื้นฟูค่า HP มันค่อนข้างที่จะมีผลรุนแรงกับ special class และ beginner
+ตามความจริง,  นี่มันสามารถทำลายกฏความสมดุลของน้ำยา ทั้งหมดได้เลย
+แต่เมื่อกาลก่อน! 
+โลกใบนี้เต็มไปด้วยเหล่าเด็กที่มีจิตใจเ้ข้มแข็ง
+ดังนั้น ข้าจึงไม่กังวลเกี่ยวกับมัน! 
+แต่น้ำยา ที่ข้าสร้างขึ้นอาจจะเกิดปัญหา, มีบางสิ่งบางอย่างในนั้นออกมาจากสารของมัน
 
 
-The first material for HP Increase potion (M) is same as for potion (s)
-Also, the second material needed is yellow colored, and same type. 
-The first material needed for HP Increase potion (L) is as same as the one for small potion. 
-And the second material is, [purple colored fruit]! 
-For the final material for HP Increase potion (L) is the one for remembering my friend. 
-He is the priest, and gives me this one whenver I got challenged while having investigation. 
+ตอนนี้, เรามาพูดถึงน้ำยาขวดกลาง และขวดใหญ่
+เจ้าพร้อมหรือยัง?
+
+ที่ข้าแจ้งเจ้าไว้ก่อนหน้านี้, ข้าจะให้คำอธิบายเจ้าโดยย่อเกี่ยวกับการสร้างน้ำยาขวดกลาง และใหญ่)
+
+
+วัสดุชิ้นแรกสำหรับสร้างน้ำยาฟื้นฟูค่า HP ขวดกลาง มันก็คล้ายกับขวดเล็ก
+เช่นเดียวกัน, ชิ้นที่สองต้องการคือสีเหลือง, และประเภทเดียวกัน 
+วัสดุชิ้นแรกสำหรับสร้างน้ำยาฟื้นฟูค่า HP ขวดใหญ่ มันก็ยังคล้ายกันกับขวดขนาดเล็ก
+และชิ้นที่สองที่ต้องใช้คือ, [purple colored fruit]! 
+และวัตถุดิบชิ้นสุดท้ายที่จะใช้สร้างน้ำยาฟื้นฟูค่า HP ขวดใหญ คือหนึ่งในเรื่องที่น่าจดจำของเพื่อนข้า
+เขาเป็น priest, และมอบมันให้ข้า เมื่อใดก็ตามที่ข้าท้าดวลจะต้องตรวจสอบมันก่อนเสมอ
 
  
-He would cheer up for me with the heartful mind! 
-As for me, I could feel his sincerety, so I insert this material though I consider it's literally useless.
-This heartful mind could be the best of the best in this world.
+เขาจะคอยเชียข้าด้วยใจที่เต็มเปี่ยม! 
+สำหรับข้า, ข้าสามารถรับรู้ได้ถึงความจริงใจของเขา, ดังนั้นข้าจึงแทรกเนื้อหานี้ แต่ข้าถือว่ามันไร้ประโยชน์อย่างแท้จริง
+การใส่ใจลงไปทั้งหมดในความตั้งใจนั้นเป็นสิ่งที่ดีที่สุดในโลก
 
 
-Let's wrap up!
+สรุปเลยละกัน!
 
-In addtion to two basic material, HP Increase potion (M) requires one which is for small potion, and the other colored one with the same property. 
-
-
-In addtion to two basic material, HP Increase potion (L) requires one which is for small potion, the purple colored fruit as well as the thing only available by priest.
+นอกจากวัสดุพื้นฐานทั้งสองแล้ว, HP Increase potion (M) ต้องการ small potion หนึ่งชิ้นต่ออัน, และอีกหนึ่งสีที่มีคุณสมบัติเดียวกัน 
 
 
-For more clue, the proportion is (m)  1 : 1 , (L)  5 : 1 : 1/3  .
-
-Here we go! Expectiong for your great job and the progress for Alchemist!
+นอกจากวัสดุพื้นฐานทั้งสองแล้ว, HP Increase potion (L) ต้องการ small potion หนึ่งชิ้นต่ออัน, purple colored fruit เป็นสิ่งเดียวที่ใช้ได้โดยpriest.
 
 
+สำหรับสีอื่น, สัดส่วนเป็น (m)  1 : 1 , (L)  5 : 1 : 1/3  
 
-(As I checked it delicately, there's something written in the back of the book.)
+เราไปกัน! คาดว่ามันคงเป็นงานที่ดีสำหรับเข้าและเป็นความคืบหน้าของ Alchemist!
+
+
+
+(เท่าที่ข้าตรวจดูอย่างละเอียด, มันมีบางสิ่งถูกเขียนลงบนด้านหลังของหนังสือ)
 
 (S : บด 10 - ฑซธิ 5 - วฯวใ 10 - ธลผา 1 )
 (M : บด 10 - วฯวใ 10 - ณ๋วใ ?? - ธลผา 1 )
 (L : บด 10 - วฯวใ 15 - ธถฝบ 3 - ผบ 1 - ธลผา 1 ) 
 
-(It seems like password. It must be related to producing HP Increase potion....)
+(ดูเหมือนจะเป็นรหัส มันน่าจะมีความเกี่วข้องกับการสร้าง HP Increase potion....)

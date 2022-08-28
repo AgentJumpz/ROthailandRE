@@ -1,65 +1,66 @@
 %faf0e6
-^000088Produce special potions to enhance
-resistance to elemental properties.^000000
+^000088โพชั่นแบบพิเศษ
+ที่ช่วยต้านทานธาตุชนิดต่างๆได้^000000
 
 
-----------------Preface--------------------
-You can temporarily increase resistance to the
-four basic elements, Fire, Water, Wind, and Earth
-properties, by using catalyzers to produce potions
-that will provide protection for each element. I write
-this book on property resistance with the wish that
-my principles and knowledge of the four basic
-elements will help future Alchemists.
+----------------คำนำ--------------------
+คุณสามารถเพิ่มความต้านทานชั่วคราว
+ต่อธาตุพื้นฐาน คือ ดิน น้ำ ลม ไฟ ได้ โดย
+โพชั่นชนิดพิเศษที่ช่วยป้องกันธาตุตาม
+แต่ละชนิดได้ ผู้เขียนหวังว่าความรู้ต่างๆ
+ในหนังสือเล่มนี้จะช่วยให้อนาคตของ
+Alchemist ทุกคนดีขึ้น
 ------------------------------------------
 
 
-What is a ^ff0000property resistance potion^000000?
+^ff0000Property Resistance Potion^000000 หรือโพชั่นกันธาตุคืออะไร?
 
 
-Property resistance potions temporarily increase
-resistance to one element, but also reduce resistance
-to that element's opposing element. For example, fireproof
-potions can reduce damage from the Fire property, but they
-also increase damage from the Water property.
+โพชั่นกันธาตุจะช่วยเพิ่มพลังป้องกัน
+ของธาตุต่างๆตามแต่ละชนิดของโพชั่นนั้นๆ
+และจะลดพลังป้องกันของธาตุตรงกันข้ามด้วย
+ยกตัวอย่างเช่น โพชั่นกันธาตุไฟ จะช่วยลด
+ค่าความเสียหายจากธาตุไฟ แต่เมื่อโดนโจมตี
+ด้วยธาตุน้ำจะได้รับค่าความเสียหายแรงขึ้นด้วย
 
 
-^0000ffFireproof Potion^000000: Enhances Fire property resistance.
-Required Materials: ^4b008222 Frills,
-1 Red Gemstone, 1 Empty potion bottle^000000
-Process: Place the frills and a red gemstone into
-a medicine bowl. Use the Prepare Potion skill so
-that the gemstone will begin to catalyze the other
-ingredients, and then pour the solution into an
-empty potion bottle.
+^0000ffResist Fire^000000: เพิ่มพลังป้องกันธาตุไฟ
+ส่วนผสม : ^4b008222 Frill,
+1 Red Gemstone, 1 Empty Potion Bottle^000000
+วิธีทำ : ใส่ Frill และ Red Gemstone ลงในถ้วย
+ใช้ทักษะในการทำโพชั่นให้ 
+เป็นตัวกระตุ้นส่วนผสมอื่นๆ 
+จากนั้นเทส่วนผสมทั้งหมด
+ลงในขวดเปล่า
 
-^800000Coldproof Potion^000000: Enhances Water property resistance.
-Required Materials: ^4b00823 Heart of Mermaids,
+^800000Resist Water^000000: เพิ่มพลังป้องกันธาตุน้ำ
+ส่วนผสม : ^4b00823 Heart of Mermaid,
 1 Blue Gemstone, 1 Empty Potion Bottle^000000
-Process: Place the hearts of mermaid and blue
-gemstone into a medicine bowl. Use the Prepare
-Potion skill so that the gemstone will begin to catalyze
-the other ingredients, and then pour the solution
-into an empty potion bottle.
+วิธีทำ : ใส่ Heart of Mermaid และ Blue Gemstone ลงในถ้วย
+ใช้ทักษะในการทำโพชั่นให้ 
+เป็นตัวกระตุ้นส่วนผสมอื่นๆ 
+จากนั้นเทส่วนผสมทั้งหมด
+ลงในขวดเปล่า
 
 
 
-^008040Thunderproof Potion^000000: Enhances Wind property resistance.
-Required Materials: ^4b00823 Moth Dust,
+^008040Resist Wind^000000: เพิ่มพลังป้องกันธาตุลม
+ส่วนผสม : ^4b00823 Moth Dust,
 1 Blue Gemstone, 1 Empty Potion Bottle^000000
-Process: Place the moth dust and blue gemstone
-into a medicine bowl. Use the Prepare Potion skill
-so that the gemstone will begin to catalyze the
-other ingredients, and then pour the solution
-into an empty potion bottle.
+วิธีทำ : ใส่ Moth Dust และ Blue Gemstone ลงในถ้วย
+ใช้ทักษะในการทำโพชั่นให้ 
+เป็นตัวกระตุ้นส่วนผสมอื่นๆ 
+จากนั้นเทส่วนผสมทั้งหมด
+ลงในขวดเปล่า
 
 
 
 
-^ff8040Earthproof Potion^000000: Enhances Earth property resistance.
-Required Materials: ^4b00822 Large Jellopies,
-1 Yellow Gemstone, 1 Empty potion bottle^000000
-Process: Place the large jellopies and yellow gemstone
-into a medicine bowl. Use the Prepare Potion skill so that
-the gemstone will begin to catalyze the other ingredients,
-and then pour the solution into an empty potion bottle.
+^ff8040Resist Earth^000000: เพิ่มพลังป้องกันธาตุดิน
+ส่วนผสม : ^4b00822 Large Jellopy,
+1 Yellow Gemstone, 1 Empty Potion Bottle^000000
+วิธีทำ : ใส่ Large Jellopy และ Yellow Gemstone ลงในถ้วย
+ใช้ทักษะในการทำโพชั่นให้ 
+เป็นตัวกระตุ้นส่วนผสมอื่นๆ 
+จากนั้นเทส่วนผสมทั้งหมด
+ลงในขวดเปล่า

@@ -1,77 +1,63 @@
 %faf0e6
-^000088We don't care who you are: our hearty cuisine will satisfy you 
-whether you're a hungry man, Poring, or a Poporing.^000000
+^000088พวกเราไม่สนใจว่าคุณเป็นใคร : การมีไมตรีจิตของพวกเราจะทำให้คุณไม่มีข้อสงสัย, Poring, หรือ Poporing.^000000
 
-Here's the secrets of our hearty cuisine, the Level 7 cooking recipes.
-
-
-^ff0000Whole Roast:^000000 enjoy this fully roasted spicy meat!
-Ingredients: ^4b008210 Meat, 1 Live Coal, 2 Coals, 1 Spicy Sauce, 15 Trunks, 10 White Herbs ^000000
-Directions: 
-	1. Wash the Meat under running water.
-	2. Thoroughly coat the Meat with Spicy Sauce.
-	3. Chop the White Herbs, and sprinkle on the marinaded Meat.
-	4. Start a fire with Live Coal and Coals.
-	5. Roast the marinaded Meat over Coals.
-	6. Add more Spicy Sauce over the Meat several times while it is roasting.
-	7. Serve with chopped White Herbs sprinkled on top.
-
-^0000ffSpecial Royal Jelly Herbal Tea:^000000 enjoy the sweet flavor of this special honey herbal tea.
-Ingredients: ^4b00824 Royal Jelly, 2 Honey, 5 White Herbs, 10 Hinalle Leaflets, 1 Yellow Spice ^000000
-Directions: 
-This recipe is basically the same as the Level 3 dish, Honey Herbal Tea, 
-but it adds higher quality herbs, Hinalle Leaflets, and Royal Jelly.
+นี่คือความลับซึ่งเป็นหัวใจของคนทำอาหาร, ตำรับปรุงอาหารเลเวล 7.
 
 
-^800000Soul Haunted Bread:^000000 be careful! This bread may steal your soul with its heavenly taste!
-Ingredients: ^4b008210 Bread, 5 Mastela Fruits, 1 Sweet Sauce, 5 Ments, 5 Amulets, 2 Unripe Apples ^000000
-Directions:
-	1. Peel off Mastela Fruits and Apples, and then cut them into bite size squares.
-	2. Wash Ments, and grind them to extract their juice. Mix this Ment juice with sugar 
-                     by a 1:1 ratio.
-	3. Coat the Mastela Fruits and Apples with this sugared Ment juice.
-	4. Refrigerate the mixture for 30 minutes.
-	5. Boil the mixture over high heat until it bubbles.
-	6. Reduce the heat to medium, add sugar, and boil down to make a jam.
-	7. Make sure to constantly stir the jam while it is boiling down.
-	8. Pulverize Amulets, and mix in Sweet Sauce. Refrigerate this new mixture 
-                    until the jam is finished.
-	9. Spread the jam and the Amulet mixed Sweet Sauce on pieces of bread, and enjoy!
+^ff0000Whole Roast:^000000 เพลิดเพลินอย่างเต็มเปี่ยมกับเนื้อย่างสูตรเครื่องเทศ!
+ส่วนประกอบ: ^4b008210 Meat, 1 Live Coal, 2 Coals, 1 Spicy Sauce, 15 Trunks, 10 White Herbs ^000000
+วิธีปรุง: 
+	1. ล้างเนื้อโดยการเปิดให้น้ำไหลผ่าน.
+	2. นำเนื้อคลุกเคลาให้เครื่องเทศคลุมทั่วแผ่นเนื้อ.
+	3. สับ White Herbs, และโรยให้ทั่วบนแผ่นเนื้อ.
+	4. จุดไฟด้วย Live Coal และ Coals.
+	5. ย่างเนื้อบน เตาที่ใส่ถ่านหิน.
+	6. ราด Spicy Sauce บนแผ่นเนื้อขณะที่กำลังย่างเพื่อเพิ่มรสชาติจนสุก.
+	7. เสริฟ์พร้อมกับ White Herbsสับ โดยโรยให้ทั่วบนแผ่นเนื้อย่าง.
 
-^008040Steamed Alligator with Vegetable:^000000 soft and chewy steamed alligator meat served 
-                                                                    with fresh vegetables.
-Ingredients: ^4b008210 Anolian Skin, 10 Jack oกฏ Pumpkins, 10 Carrots, 10 Aloe Leaflet, 
-                    10 Yellow Herbs, 1 Yellow Spice ^000000
-Directions: 
-	1. Wash Anolian Skin, and knead it while mixing it with salt, pepper, water, 
-                     and Yellow Spice. 
-	2. Cut the Carrots into thin and long slices. Parboil Aloe Leaflets and Yellow Herbs, 
-                     and then squeeze them dry. Cut Jack o' Pumpkins into thin slices, 
-                     fry the slices, and then cool.
-	3. Spread a cotton cloth onto a thick wooden plate, and place the kneaded Anolian Skin on
-                     the board. Place the plate inside a steamer, and steam for 15 minutes.
-	4. Cut the skin into bite sized pieces, and serve with vegetables.
+^0000ff Special Royal Jelly Herbal Tea:^000000 สำราญใจไปกับรสชาติหวานหอมของชาสมุนไพรผสมน้ำผึ้งสูตรพิเศษนี้.
+ส่วนประกอบ: ^4b00824 Royal Jelly, 2 Honey, 5 White Herbs, 10 Hinalle Leaflets, 1 Yellow Spice ^000000
+วิธีปรุง: 
+วิธีการปรุงสูตรนี้ก็คล้ายกับ Level 3 , Honey Herbal Tea, แต่มันจะเพิ่ม ความเข้มข้นของสมุนไพร, Hinalle Leaflets, และ Royal Jelly.
 
-^ff8040Sumptuous Feast:^000000 partake of this delicious feast made with unique food ingredients.
-Ingredients: ^4b008210 Fish Tails, 5 Aloe Leaflets, 10 Manes, 2 Fresh Fishes, 10 Pet Food, 
-                   1 Sweet Sauce ^000000
-Directions: 
-	1. Parboil Aloe Leaflets in salty water.
-	2. Remove scales from the Fresh Fishes, coat them in Sweet Sauce, and set aside for 
-                   10 minutes.
-	3. Wrap the marinaded Fresh Fishes with Aloe Leaflets. Steam the wrapped fishes and 
-                    Fish Tails for 10 minutes, and then serve them on a plate.
-	4. Cut Manes into 4 cm long pieces, and then parboil them.
-	5. Cut the Pet Food into bite sized chunks, and mix with Sweet Sauce. 
-                    Broil the cut Pet Food on a frying pan.
+
+^800000Soul Haunted Bread:^000000ระวังด้วย! . ขนมปังนี้อาจจะขโมยจิตใจของคุณด้วยรสชาติแห่งสวรรค์ของมัน!
+!
+ส่วนประกอบ: ^4b008210 Bread, 5 Mastela Fruits, 1 Sweet Sauce, 5 Ments, 5 Amulets, 2 Unripe Apples ^000000
+วิธีปรุง:
+	1. ปอกเปลือก Mastela Fruits และ Apples,และหั่นให้เป็นชิ้นพอคำ.
+	2. ล้าง Ments, และบดให้ละเอียดเพื่อคั้นเอาแต่น้ำ.ผลมน้ำ Ment กับน้ำตาลด้วยอัตราส่วน 1:1.
+	3. คลุก Mastela FruitsและApples ด้วย น้ำ Ment ที่ผสมเอาไว้แล้ว.
+	4. แช่เย็นผลไม้ที่ผสมแล้ว 30 นาที.
+	5. ต้มส่วนผสมด้วยความร้อนสูงจนเดือด.
+	6. ลดความร้อนลงให้เหลือระดับปานกลาง,เติมน้ำตาล, และต้มต่อไปจนแห้งเป็นแยม.
+	7. กวนต่อไปเพื่อให้เป็นเนื้อแยมขณะที่กำลังแห้งลง.
+	8. บด Amulets,และผสม Sweet Sauce. นำส่วนผสมนี้ไปแช่เย็นจนกระทั่งแยมเสร็จ.
+	9. ผสมแยมและ Amulet ที่ผสม Sweet Sauce บนขนมปัง,และชิมรส!
+
+^008040 Steamed Alligator with Vegetable:^000000 นุ่มลิ้นละมุนกับเนื้อจระเข้ อบ เสริฟ์พร้อมผักสด.
+ส่วนประกอบ: ^4b008210 Anolian Skin, 10 Jack oกฏ Pumpkins, 10 Carrots, 10 Aloe Leaflet, 10 Yellow Herbs, 1 Yellow Spice ^000000
+วิธีปรุง: 
+	1. ล้าง Anolian Skin, และคลุกเคลากับเกลือ , พริกไทย , น้ำ , และ Yellow Spice. 
+	2. ตัด Carrots บางๆและหั่นให้เป็นชิ้นยาว. ลวกl Aloe Leaflets และ Yellow Herbs, และบีบน้ำออกให้แห้ง.หั่น Jack o' Pumpkinsและเฉือดให้บาง,ทอดผักสไลด์ไว้,และทำให้เย็น.
+	3. แผ่ผ้าบนถาดที่ทำด้วยไม้,และวาง Anolian Skin บนนั้น.วางบนหม้ออบ,และนึ่ง 15นาที.
+	4. หั่นเนื้อให้เป็นชิ้นพอดีคำ,และเสริฟ์พร้อมกับผักสด.
+
+^ff8040Sumptuous Feast:^000000 เฉลิมฉลองไปกับอาหารสุดหรูที่มีส่วนผสมเป็นเอกลักษณ์.
+ส่วนประกอบ: ^4b008210 Fish Tails, 5 Aloe Leaflets, 10 Manes, 2 Fresh Fishes, 10 Pet Food, 1 Sweet Sauce ^000000
+วิธีปรุง: 
+	1. ลวก Aloe Leafletsในน้ำที่ใส่เกลือเล็กน้อย.
+	2. ขูดเกล็ดออกจากFresh Fishes ,คลุกเคล้าด้วย Sweet Sauce, เป็นเวลา 10 นาที.
+	3. ห่อ Fresh  Fishesด้วย Aloe Leaflets. นึ่งปลาที่ห่อแล้วและ Fish Tails เป็นเวลา 10 นาที, และจัดใส่จานพร้อมเสริฟ .
+	4. ตัด Manesขนาด 4 ซม.ต่อชิ้น, และลวกพอสุก.
+	5. ตัด Pet Food ขนาดพอดีคำ, และผสมกับ Sweet Sauce.ย่าง Pet Food บนกะทะทอด.
          
 
-^400080Assorted Shish Kebob:^000000 delectable shish kebobs made with meat, vegetables, and clams!
-Ingredients: ^4b008210 Scale Shells, 5 Gill, 10 Soft Blades of Grass, 5 Meat, 10 Edible Mushrooms, 10 Clam Flesh ^000000
-Directions: 
-	1. Cut the Soft Blades of Grass into 4 cm long pieces, and slice the Edible Mushrooms.
-	2. Wash the Scale Shells and the longest spines from the Gills under running cold water.
-	3. Parboil the Meat and Clam Flesh.
-	4. Skew the ingredients onto long Gill spines: first skew the meat, then the vegetables, 
-                    and finally the clam flesh.
-	5. Heat the Scale Shells over medium heat, and place the kebobs on the scales to cook.
+^400080 Assorted Shish Kebob:^000000 บันเทิงกับ shish kebobs เมื่อรับประทานร่วมกับ meat, ผัก, และ clams!
+ส่วนประกอบ: ^4b008210 Scale Shells, 5 Gill, 10 Soft Blades of Grass, 5 Meat, 10 Edible Mushrooms, 10 Clam Flesh ^000000
+วิธีปรุง: 
+	1.หั่น Soft Blades of Grass ให้ยาว 4 ซม., และเฉือด Edible Mushroomsให้เป็นชิ้นบางๆ.
+	2. ล้าง Scale Shells และ ให้น้ำเย็นไหลผ่าน  Gills เป็นระยะเวลาหนึ่ง.
+	3. ลวก Meat และ Clam Flesh พอสุก.
+	4. ม้วนส่วนประกอบลงบนGill : อย่างแรกคือ meat, และต่อด้วย vegetables, และสุดท้าย clam flesh.
+	5. ทำให้ Scale Shells มีความร้อนปานกลาง,และวาง kebobs เพื่อปรุงอาหาร.

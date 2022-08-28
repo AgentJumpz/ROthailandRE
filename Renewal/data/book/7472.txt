@@ -1,59 +1,43 @@
 %faf0e6
-^000088- Don't panic when you're alone in the middle of nowhere. 
-You can survive with the recipes in this book! -^000000
+^000088- ไม่ต้องตื่นตระหนกตกใจไปเมื่อท่านต้องอยู่คนเดียวในที่ๆไม่มีใครรู้จัก เพียงมีหนังสือเล่มนี้อยู่ในมือท่านก็สามารถอยู่รอดได้! -^000000
 
-You Can Do It: Level 1 Cooking!
+ใครๆ ก็ทำได้ : Level 1 Cooking!
 
-^ff0000Fried Grasshopper Legs:^000000 Don't worry-- grasshopper legs are actually quite tasty, 
-                                                    and won't hop around once they're deep fried.
-Ingredients: ^4b00825 Grasshopper Legs, 1 Old Frying Pan, 1 Cooking Oil ^000000
-Directions: 
-	1. Heat the old frying pan over medium heat. (New frying pans tend to absorb oil, and 
-                    take longer to heat. If you don't have a used frying pan, then use 
-                    Savage's fat to pre-treat a new frying pan.)
-	2. Add 2 TS of Cooking Oil to the pan, and lightly fry 3 Grasshopper Legs. 
-                   Once the legs turn golden brown, add the the other 2 legs and 1 TS of 
-                   Cooking Oil, and then fry them until they're crispy.
+^ff0000Fried Grasshopper Legs:^000000 ไม่ต้องห่วง จริงๆแล้วขาตั๊กแตนก็รสชาตดีไม่ใช่น้อย เพียงแต่ต้องนำมาทอดให้เป็นเท่านั้นเอง
+ส่วนผสม : ^4b00825 Grasshopper Legs, 1 Old Frying Pan, 1 Cooking Oil ^000000
+วิธีทำ : 
+	1. ตั้งกระทะเก่าที่ได้มาให้ร้อนปานกลาง  (กระทะใหม่จะค่อนข้างดูดซับน้ำมัน ซึ่งใช้เวลานานกว่าจะร้อน ถ้าท่านไม่มีกระทะเก่าขอแนะนำให้ใช้ ไขมันของ Savage กับกระทะใหม่แทนน้ำมันจะดีกว่า)
+	2. เทน้ำมันลงกระทะ ใส่ขาตั๊กแตน 3 ขาลงกระทะ รอจนเหลืองกรอบจึงตักใส่จาน ค่อยๆ ใส่ลงไปอีกทีละ 2 ขาไปเรื่อยๆ จนหมด ค่อยๆ นำใส่จานเรื่อยๆ เป็นอันเสร็จพิธี
 
-^0000ffGrape Juice Herbal Tea:^000000It'll be ready as soon as you blend grapes with potions!
-Ingredients: ^4b00823 Grape, 2 Red Potions ^000000
-Directions: 
-	1. Grind 1 Grape, and then mix it with 1 Red Potion in a mixer. 
-                    Remember: don't remove the Grape seeds and skin! Once the Grape and 
-                    Red Potion are blended, add another Red Potion to the mixer, and then 
-                    shake for 10 seconds.
+^0000ffGrape Juice Herbal Tea:^000000 พร้อมแล้วที่จะให้ท่านดื่มด่ำไปกับกานผสมผสานของชาสมุนไพรและองุ่นแท้
+ส่วนผสม : ^4b00823 Grape, 2 Red Potions ^000000
+วิธีทำ : 
+	1. บดองุ่นให้แหลกแล้วผสมมันลงในขวด Red Potion จำไว้ว่าอย่านำเมล็ดและเปลือกออก เมื่อผสมกันเข้าที่แล้วให้ใส่ไปยัง Red Potion อีกขวดแล้วเขย่าประมาณ 10 วินาที เป็นอันเสร็จเรียบร้อย
 
 
 
-^800000Honey Grape Juice:^000000 Just blend Honey and Grapes together, and you'll be good to go!
-Ingredients: ^4b00821 Honey, 2 Grape, 1 Red Potion ^000000
-Directions: This is the same recipe as Grape Juice Herbal Tea, except the you add Honey 
-                   instead of Red Potion in the final step.
+^800000Honey Grape Juice:^000000 ส่วนผสมระหว่างองุ่นและน้ำผึ้งที่ลงตัว ทำให้เกิดรสชาตที่แสนอร่อย
+ส่วนผสม : ^4b00821 Honey, 2 Grape, 1 Red Potion ^000000
+วิธีทำ : สูตรเหมือนกับ Grape Juice Herbal Tea เพียงแต่ท่านต้องใส่แทน Red Potion ในขั้นตอนสุดท้ายเท่านั้นเอง
 
-^008040Frog Egg Squid Ink Soup:^000000Soup added with healthy Squid Ink sauce.
-Ingredients: ^4b00821 Bag of Grain, 10 Spawn, 1 Squid Ink ^000000
-Directions: 
-	1. Place the Spawns in a bowl of cold water to enhance their chewiness, and then grind 
-                    the grain.
-	2. Mix the grain with water, and then simmer the mixture until it thickens.  
-   	3. Add the Spawns to the simmering mixture.
-	4. Once the Spawns are tender, add the Squid Ink as sauce, and then increase the heat 
-                    until the mixture boils.
+^008040Frog Egg Squid Ink Soup:^000000 ซุปที่เพิ่มรสชาติด้วยซอสหมึก
+ส่วนผสม : ^4b00821 Bag of Grain, 10 Spawn, 1 Squid Ink ^000000
+วิธีทำ : 
+	1. นำไข่กบใส่ลงในชามที่มีน้ำเย็น จากนั้นให้บดเมล็ดข้าว
+	2. หลังจากบดเมล็ดข้าวจนละเอียดให้นำมาใส่รวมกัน เคี่ยวให้เข้ากันจนได้ที่
+   	3. เพิ่มไข่กบลงไปเรื่อยๆ พร้อมกับเคี่ยวให้ทั่ว
+	4. เมื่อได้ที่แล้วให้ใส่ซอสหมึกลงไป นำไปต้มจนเดือดเป็นอันเสร็จ
           
-^ff8040Steamed Crab Nippers:^000000 It's fun to shell and eat crabs!
-Ingredients: ^00804010 Nippers, 10 Green Herbs, 1 Yellow Potion ^000000
-Directions:
-	1. Marinade Nippers in Yellow Potion for the night before you cook them.
-	2. Line a steamer with a clean cotton cloth, and then add Green Herbs and 
-                    the marinaded Nippers.
-	3. Steam the Nippers until the color of the shell is deep red.
+^ff8040Steamed Crab Nippers:^000000 การกินปูมันช่างให้ความรู้สึกที่วิเศษดีจริงๆ
+ส่วนผสม : ^00804010 Nippers, 10 Green Herbs, 1 Yellow Potion ^000000
+วิธีทำ :
+	1. นำก้ามปูมาหมักในน้ำซอส Yellow Potion แล้วทิ้งไว้ 1 คืน
+	2. นำ Green Herb ใส่ลงไปคลุกเคล้าให้เข้ากัน
+	3. นำไปอบไอน้ำจนกระทั่งก้ามของปูเปลี่ยนเป็นสีแดง
 
-^400080Fried Monkey Tails:^000000 You might worry that the monkey tails are too tough to chew, 
-                                             but they're actually easy to eat.
-Ingredients: ^0080405 Yoyo Tails, 1 Old Frying Pan, 1 Cooking Oil^000000
-Directions: 
-	1. Skin Yoyo Tails, and cut them into bite size pieces.
-	2. Heat the Old Frying Pan over medium heat, add Cooking Oil, and then fry a small amount 
-                    of the Yoyo Tails. The meat will be too tough if you cook it all 
-                    at once, so cook the tails in smaller batches.
+^400080Fried Monkey Tails:^000000 ท่านอาจจะกังวลกับหางลิงที่อาจจะเหนียวสักหน่อย แต่มันก็ทานง่ายนะ
+ส่วนผสม : ^0080405 Yoyo Tails, 1 Old Frying Pan, 1 Cooking Oil^000000
+วิธีทำ : 
+	1. ลอกหนังออก แล้วตัดเป็นชิ้นๆ พอดีคำ
+	2. ตั้งกระทะให้ร้อนปานกลาง ใส่น้ำมันรอจนร้อนแล้วใส่หางลิงลงไป อย่าลืมว่าต้องหั่นเป็นชิ้นๆ เสียก่อน ไม่อย่างนั้นจำทำให้หางลิงนั้นเหนียวจนเกินไป
           

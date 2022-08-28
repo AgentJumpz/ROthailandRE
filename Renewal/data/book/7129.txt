@@ -1,33 +1,31 @@
 %faf0e6
-^000088Alchemy Basics: Acid Bottle Creation^000000
+^000088การแปรธาตุขั้นพื้นฐาน : การสร้าง Acid Bottle^000000
 
 
-----------------Preface--------------------
+----------------คำนำ--------------------
 
-We learned that we could produce hydrogen
-Chloride under certain conditions in our experimentation
-with immortal hearts. Hydrochloric acid is a strong acidic
-Solution with a high degree of ionization: it is so acidic that
-it can smelt rock, and must be handled with the appropriate
-safety precautions. This book details the production process
-of hydrochloric acid for use in Acid Bottles.
+เรารู้มาว่าเราสามารถผลิต Hydrogen Chloride
+ภายใต้เงื่อนไขการทดลองของเราด้วย 
+Immortal Heart ได้ กรดไฮโดรคลอริกเป็น
+กรดที่มีความเข้มข้นของอิออนสูง มันสามารถ
+กัดกร่อนหินได้และต้องถูกเก็บในสถานที่ที่มี
+ความปลอดภัยสูง หนังสือเล่มนี้จะบอกถึงรายละเอียด
+ของกระบวนการใช้กรดไฮโดรคลอริกทำ Acid Botle
 
 ------------------------------------------
 
 
-What is ^008040hydrochloric acid^000000?
+^008040hydrochloric acid^000000 คืออะไร?
 
-Hydrochloric acid is the aqueous solution of
-Hydrogen chloride gas (HCl). Acid bottles used
-in combat are usually filled with hydrochloric acid.
+ไฮโดรคลอริกมีส่วนผสมซึ่งประกอบด้วยน้ำของ
+ก๊าซไฮโดรคลอไรด์ (HCl) Acid Bottle เป็นที่นิยม
+ใช้ในการต่อสู้เสมอๆ 
 
-Ingredients: ^4b00821 Immortal Heart, 1 Empty Bottle^000000
+ส่วนผสม : ^4b00821 Immortal Heart, 1 Empty Bottle^000000
 
-Directions: Place an immortal heart in a medicine
-bowl, and add water. Warm the bowl using a double boiler,
-keeping the water temperature at 72 degrees. Collect the gas
-from the bowl, and distill it to produce hydrogen chloride.
-Fill an empty bottle with water and combine it with the hydrogen
-chloride to form the acid. Keep this book with you and refer
-to it while you gather the ingredients and use the Prepare
-Potion skill so that you can create Acid Bottles.
+วิธีทำ : วาง Immortal Heart ลงในถ้วยผสมยา 
+เติมน้ำลงไป อุ่นน้ำให้ร้อนรักษาอุณหภูมิของน้ำ
+ไว้ที่ 72 องศา เก็บก๊าซที่ระเหยออกมาจากถ้วย
+นำไปกลั่นเพื่อผลิตเป็นไฮโดรเจนคลอไรด์ จากนั้น
+นำไปผสมกับน้ำเปล่าแล้วเทใส่ขวด คุณต้องพก
+หนังสือนี้ติดตัวขณะที่คุณทำ Acid Bottle ด้วย

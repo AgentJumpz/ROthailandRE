@@ -1,93 +1,64 @@
 %faf0e6
-^000088Vicissitudinous story of the Rune-Midgarts Kingdom's very first female chef! ^000000
-This book has become a best seller because it contains this woman's cooking recipes 
-that which perfectly display her passion for cooking. This copy is also specially 
-autographed by the author.
+^000088เรื่องราวเกี่ยวกับแม่ครัวคนแรกแห่งอาณาจักร Rune-Midgarts จริง ๆ! ^000000
+หนังสือเล่มนี้กลายมาเป็นหนังสือที่ขายดีที่สุดเพราะข้างในเขียนถึงสูตรในการปรุงอาหารของแม่ครัวหญิงที่ใช้อารมณ์ทั้งหมดในการปรุงอาหาร. เล่มนี้เป็นเล่มที่พิเศษเพราะมีลายเซ็นต์ของผู้เขียนอยู่ด้วย.
 
 ^ff0000Steamed Tongue:^000000 
-Ingredients: ^4b008220 Tongues, 1 Pot, 1 Alcohol, 2 Aloe Vera, 1 Spicy Sauce, 5 Royal Jellys, 
-                   10 Yggdrasil Leaves, 2 Blue Potions ^000000
-Directions: 
-	1. Pour clear broth and Alcohol into a pot, and boil. 
-	2. Parboil Tongues with the clear broth.
-	3. Cut Aloe Vera in diagonal slices, and garnish a plate by lining its rim with 
-                    the Aloe Vera.
-	4. Remove skin, muscle, and tendons from the parboiled Tongues, and mix the Tongues 
-                    with Spicy Sauce. 
-	5. Serve the Tongue salad on the plate with Spicy Sauce to taste.
+ส่วนประกอบ : ^4b008220 Tongues, 1 Pot, 1 Alcohol, 2 Aloe Vera, 1 Spicy Sauce, 5 Royal Jellys, 10 Yggdrasil Leaves, 2 Blue Potions ^000000
+วิธีปรุง : 
+	1. เทน้ำซุปที่ใสสะอาดและ Alcohol ลงในหม้อ, และต้ม . 
+	2. นำ Tongues ลงไปต้มในน้ำซุปที่เตรียมไว้แต่ไม่ต้องให้สุกมาก .
+	3. หั่น Aloe Vera เป็นแนวขวางบาง ๆ, และตกแต่งจานให้สวยงามโดยใช้ Aloe Vera มาเรียงรอบ ๆ จาน .
+	4. เอาผิวหนัง, กล้ามเนื้อ, และเอ็นออกจาก Tongues ที่ต้มเตรียมไว้แล้ว, และผสม Tongues เข้ากับ Spicy Sauce . 
+	5. เสิร์ฟ Tongue salad บนจานพร้อมกับ Spicy Sauce เพื่อเพิ่มรสชาติ .
 
 
-^0000ffDragon Breath Cocktail:^000000 sticky, full flavored cocktail that warms your stomach!
-Ingredients: ^4b008210 Maneater Roots, 1 Singing Plant, 5 Aloe Leaflets, 5 Royal Jellys, 
-                   5 Lemons, 5 Prickly Fruits, 1 Yggdrasilberry, 10 Blue Herbs ^000000
-Directions:
-	1. Dry and pulverize the Singing Plant.
-	2. Wash and chop up Maneater Roots. Wash Prickly Fruits.
-	3. Wrap the chopped Maneater Roots with Aloe Leaflets. Boil and simmer 
-                    the wrapped Maneater Roots and Prickly Fruits for at least 2 hours.
-	4. Skim the broth by using a sieve or a cotton cloth to make the cocktail.
-	5. Refrigerate the cocktail, and drink with ice, Royal Jellys, 
-                    and a Lemon slice to taste.
+^0000ffDragon Breath Cocktail:^000000เครื่องดื่ม Cocktail รสชาติเยี่ยมที่ทำให้ท้องรู้สึกอบอุ่น !
+ส่วนประกอบ : ^4b008210 Maneater Roots, 1 Singing Plant, 5 Aloe Leaflets, 5 Royal Jellys, 5 Lemons, 5 Prickly Fruits, 1 Yggdrasilberry, 10 Blue Herbs ^000000
+วิธีปรุง :
+	1.  นำ Singing Plant มาทำให้แห้งและบดเป็นผง .
+	2. นำ Maneater Roots มาล้างและสับเป็นชิ้น ๆ. Prickly Fruits มาล้าง .
+	3. นำ Maneater Roots ที่สับไว้แล้วมาห่อไว้ด้วยกันกับ Aloe Leaflets. ต้มและเคี่ยว Maneater Roots ที่ห่อเอาไว้แล้วและ Prickly Fruits อย่างน้อย 2 ชม .
+	4. กรองน้ำซุปให้สะอาดโดยใช้ตะแกรงหรือเสื้อผ้าฝ้ายเพื่อทำเครื่องดื่ม cocktail .
+	5. นำ cocktail ที่ได้มาแช่เย็น, และดื่มมันพร้อมน้ำแข็ง, Royal Jellys, และ Lemon ที่หั่นบาง ๆ เพื่อเพิ่มรสชาติ .
 
 
-^800000Hwergelmir's Tonic:^000000 alcoholic drink made with water from a legendary pond.
-Ingredients: ^4b00821 Yggdrasilberry, 10 Ice Cubes, 10 Bacillus, 4 Royal Jellys, 
-                   3 Concentration Potions, 5 Alcohol, 2 Prickly Fruits, 1 Illusion Flower^000000
-Directions:
-	1. Wash and peel the Yggdrasilberry and Prickly Fruits.
-	2. Put Bacillus, Alcohol, well-dried Illusion Flower, and Concentration Potions
-                    into a pot, and close the lid so it's airtight. Let the contents age 
-                    for about a week.
-	3. Pour the aged Concentration Potions, Royal Jellys, and skinned fruits into 
-                    an oak barrel, and let it age for at least a year. The tonic's taste 
-                    varies depending on how long it is aged.
-	4. Skim the aged drink with a sieve or cotton cloth, and then bottle it.
+^800000Hwergelmir's Tonic:^000000 เครื่องดื่ม Alcohol ที่ทำจากน้ำจากบ่อน้ำในตำนาน .
+ส่วนประกอบ : ^4b00821 Yggdrasilberry, 10 Ice Cubes, 10 Bacillus, 4 Royal Jellys, 3 Concentration Potions, 5 Alcohol, 2 Prickly Fruits, 1 Illusion Flower^000000
+วิธีปรุง :
+	1. นำ Yggdrasilberry และ Prickly Fruits มาล้างและปอกเปลือก .
+	2. ใส่ Bacillus, Alcohol, Illusion Flower ที่แห้งแล้ว, และ Concentration Potions ลงในหม้อ, และปิดฝาให้แน่น. ปล่อยทิ้งไว้ประมาณ 1 สัปดาห์ .
+	3. เท Concentration Potions, Royal Jellys, และ skinned fruits ลงในถังไม้, และปล่อยทิ้งไว้อย่างน้อย 1 ปี. รสชาติจะเป็นยังไงนั้นขึ้นอยู่ว่าเราเก็บไว้นานแค่ไหน .
+	4. นำมากรองให้สะอาดโดยใช้ตะแกรงหรือเสื้อผ้าฝ้าย, และนำไปกรอกใส่ขวด .
 
 
-^008040Steamed Desert Scorpions:^000000 Desert Scorpions steamed under hot desert sand.
-Ingredients: ^4b008220 Scorpion Tails, 20 Scorpion Nippers, 2 Aloe Vera, 3 Yggdrasil Leaves, 
-                   3 Bitter Herbs, 10 Royal Jellys, 1 Spicy Sauce, 1 Pot ^000000
-Directions: 
-	1. Remove the poison glands from the Scorpion Tails, and wash them 
-                    along with the nippers.
-	2. Mix Aloe Vera juice, chopped Yggdrasil Leaves, Royal Jellys, and Spicy Sauce 
-                    with water to make marinade sauce.
-	3. Soak Scorpion Tails and Nippers in the marinade for 10 hours, and then move 
-                    these ingredients to a pot, and close the lid so it's airtight.
-	4. Dig a hole in desert sand, place the pot in the hole around 10 AM 
-                    when the Sograt's Desert sand is at its strongest. Cover the pot with 
-                    sand, and then remove the pot around 5 PM.
-	5. Serve the steamed Desert Scorpion Tails and Nippers on a plate.
+^008040Steamed Desert Scorpions:^000000 Desert Scorpions อบใต้ทรายอันร้อนระอุ .
+ส่วนประกอบ : ^4b008220 Scorpion Tails, 20 Scorpion Nippers, 2 Aloe Vera, 3 Yggdrasil Leaves, 3 Bitter Herbs, 10 Royal Jellys, 1 Spicy Sauce, 1 Pot ^000000
+วิธีปรุง :
+	1. เอาพิษที่อยู่ในต่อมออกจาก Scorpion Tails, และนำมาล้างพร้อม ๆ กับ nippers .
+	2. ผสมน้ำ Aloe Vera , Yggdrasil Leaves ที่สับไว้แล้ว , Royal Jellys, และ Spicy Sauce กับน้ำเพื่อทำ marinade sauce .
+	3. แช่ Scorpion Tails และ Nippers ใน marinade ประมาณ 10 ชม. , และนำมาใส่หม้อ, และปิดฝาให้สนิท .
+	4. ขุดหลุมในทะเลทราย, วางหม้อลงในหลุมประมาณ 10 โมงช่วงเช้าแถว ๆ Sograt's Desert เพราะทรายที่นั่นเยี่ยมที่สุด. เอาทรายกลบหม้อให้มิด,และเอาหม้ออกจากหลุมเวลาประมาณ 5 โมงเย็น .
+	5. เสิร์ฟ Desert Scorpion Tails และ Nippers ที่อบไว้แล้วลงบนจาน .
 
 
-^ff8040Immortal Stew: ^000000a dish rumored to be sought by an eastern emperor to attain immortal life.
-Ingredients: ^4b008220 Immortal Hearts, 10 Mementos, 1 Yggdrasil Seed, 2 Anodynes, 
-                   10 Hearts of Mermaid, 2 Spicy Sauce, 10 Amulets, 2 Bitter Herbs ^000000
-Directions:
-	1. Wash and cut the Immortal Hearts into squares. Be careful since the hearts squirm, 
-                    especially while you cut them.
-	2. Pick out small Hearts of Mermaids, and wash them under running water.
-	3. Fry the Immortal Hearts, Spicy Sauce, and Amulet strips altogether.
-	4. Move them to a pot, add water and pulverized Mementos, and boil.
-	5. When it starts boiling, add Hearts of Mermaids, and continue boiling 
-                    until the hearts are well cooked.
-	6. Add chopped Bitter Herbs and Yggdrasil Seed, and simmer until it comes to 
-                    a boil again.
+^ff8040Immortal Stew: ^000000อาหารที่ล่ำลือซึ่งผู้ปกครองอาณาจักรทิศตะวันออกต้องการเป็นอย่างมากเพื่อชีวิตอมตะ .
+ส่วนประกอบ : ^4b008220 Immortal Hearts, 10 Mementos, 1 Yggdrasil Seed, 2 Anodynes, 10 Hearts of Mermaid, 2 Spicy Sauce, 10 Amulets, 2 Bitter Herbs ^000000
+วิธีปรุง :
+	1. Immortal Hearts มาล้างและหั่นเป็นสี่เหลี่ยม. ระวังให้ดีเพราะมันยังเต้นอยู่, โดยเฉพาะตอนที่จะหั่นมัน .
+	2. คัดเลือก Hearts of Mermaids, และนำมาล้างในน้ำเย็น .
+	3. นำ Immortal Hearts , Spicy Sauce, และ Amulet มาทอดด้วยกัน .
+	4. นำไปใส่หม้อ, เติมน้ำและนำ  Mementos มาบดเป็นผง, และนำไปต้ม .
+	5. เมื่อเริ่มทำการต้ม, ใส่ Hearts of Mermaids, และนำไปต้มอีกครั้งจนหัวใจนั้นสุกดี .
+	6. ใส่ Bitter Herbs และ Yggdrasil Seed ที่สับไว้แล้ว, และเคี่ยวจนกระทั่งมันเดือดอีกครั้ง .
 
 
-^400080Cooked Nine Tail's Tails:^000000 eat this dish and become strong enough to defeat and 
-                                                      cook Moonlight!
-Ingredients: ^4b008210 Nine Tails, 2 Four Leaf Clovers, 10 Maneater Roots, 10 Sharp Leaves, 
-                    4 Yggdrasil Leaves, 1 Savory Sauce, 1 Yellow Spice, 2 Izdors ^000000
-Directions:
-	1. Skin the Nine Tails, and wash under running water. Parboil the skinned Nine Tails, 
-                    and then drain the excess water and fat.
-	2. Wash and chop the Maneater Roots. Parboil the Sharp Blades, and cut them in halves.
-	3. Mix the chopped Yggdrasil Leaves, Izidor, Savory Sauce and Yellow Spice to make sauce.
-	4. Marinade Nine Tails in the sauce.
-	5. Pour the sauce and the marinaded Nine Tails to a pot, add 1 cup of meat broth, 
-                    and boil.
-	6. When it boils, reduce heat, add Four Leaf Clovers, and then simmer it down. 
-                    (Do not add Four Leaf Clovers before the mixture boils 
-                      because the leaf color will become too yellow.)
+^400080Cooked Nine Tail's Tails:^000000 ินอาหารจานนี้แล้วจะรู้สึกมีพลังและเข้มแข็งเกินกว่าปกติ !
+ส่วนประกอบ : ^4b008210 Nine Tails, 2 Four Leaf Clovers, 10 Maneater Roots, 10 Sharp Leaves, 4 Yggdrasil Leaves, 1 Savory Sauce, 1 Yellow Spice, 2 Izdors ^000000
+วิธีปรุง :
+	1. ทำความสะอาด Nine Tails, และนำมาล้างในน้ำ. นำ Nine Tails มาต้มแต่ไม่ต้องให้สุกมากเกิน , และเอาน้ำกับไขมันส่วนเกินออก .
+	2. นำ Maneater Roots มาล้างและหั่น. นำ Sharp Blades มาต้มแต่ไม่ต้องให้สุกมากเกิน, และนำทั้งหมดมาหั่น .
+	3. นำ Yggdrasil Leaves ที่หั่นไว้แล้ว, Izidor, Savory Sauce และ Yellow Spice มาผสมกันเพื่อทำซอส .
+	4. นำ Nine Tails ผสมลงในซอส .
+	5. เทซอสและ Nine Tails ลงในหม้อ, เติมน้ำซุป 1 ถ้วย, และนำไปต้ม .
+	6. เมื่อเดือด, ลดความร้อนลง, เติม Four Leaf Clovers, และเคี่ยวต่อ. (อย่าเติม Four Leaf Clovers ก่อนท่น้ำจะเดือดเพราะใบจะกลายเป็นสีเหลือง.)
           

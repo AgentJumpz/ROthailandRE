@@ -1,35 +1,35 @@
 %faf0e6
-^000088Alchemy Basics: Plant Bottle Creation^000000
+^000088การแปรธาตุขั้นพื้นฐาน : การสร้าง Plant Bottle^000000
 
 
-----------------Preface--------------------
-Using alchemy to shape and mold biological forms
-is very difficult, and considered very advanced science.
-When we conducted form changing experiments on plants,
-we failed to transform any of them since they were too weak
-to survive any alchemic changes. Just before we decided to
-abandon this research, we discovered that the man-eating
-plants near Mount Mjolnir and Juno are incredibly hardy,
-and can endure alchemic transformation. This book details
-the process of transforming man-eating plants into bottle form.
+----------------คำนำ--------------------
+การแปรธาตุให้เป็นรูปร่างตามรูปแบบของ
+วิชาชีววิทยานั้นค่อนข้างยาก ถือว่าเป็นวิทยาศาสตร์
+ขั้นสูง เมื่อเราทำการทดลองการเปลี่ยนรูปร่างกับพืช
+เราล้มเหลวเนื่องจากพวกมันอ่อนแอเกินไป แต่ก่อนที่
+เราจะล้มเลิกความตั้งใจเกี่ยวกับงานวิจัยชิ้นนี้ เราก็ได้
+ค้นพบพืชกินคนที่อยู่ใกล้ๆกับหุบเขา Mjolnir และ 
+เมือง Juno อย่างไม่น่าเชื่อ พวกมันจึงเป็นความหวังใหม่
+ในการทดลองนี้ หนังสือเล่มนี้เป็นข้อมูลเกี่ยวกับ
+กระบวนการเปลี่ยนรูปร่างของพืชกินคนซึ่งนำมาบรรจุ
+ลงในขวด
 ------------------------------------------
 
 
 
 
-What is a ^ff8040plant bottle^000000?
+^ff8040Plant Bottle^000000 คืออะไร?
 
-Plant bottles are alchemically treated man-eating
-plants that have been transformed so that they can be
-carried in bottles. Throwing this bottle in the ground will
-produce a fully grown Plant monster that will attack other
-creatures. Alchemists must have the Summon Flora skill in
-order to transform the plant bottles into man-eating plants.
+Plant Bottle คือขวดที่ใช้วิวัฒนาการการเก็บรักษา
+จากวิชาการแปรธาตุ นำพืชกินคนที่เปลี่ยนรูปแล้วมาเก็บ
+ไว้ในขวด เมื่อขว้างขวดนี้ออกไปบนพื้นก็จะสามารถ
+เรียกมอนสเตอร์ประเภทพืชออกมาเพื่อใช้โจมตีศัตรูได้
+เป็นขวดสำหรับ Alchemist ที่ได้รับการฝึกฝนในการใช้
+ทักษะนี้แล้วเท่านั้นถึงจะใช้ได้ 
 
 
-Ingredients: ^4b00822 Maneater Blossoms, 1 Empty Bottle^000000
+ส่วนผสม : ^4b00822 Maneater Blossoms, 1 Empty Bottle^000000
 
-Directions: Place two Maneater Blossoms in a medicine
-bowl, and then use the Prepare Potion skill while referring
-to this book. You must learn the Summon Flora skill to
-transform plant bottles into man-eating plants again.
+วิธีทำ : วาง Maneater Blossom 2 ชิ้นลงไปในถ้วยผสมยา
+ผู้ใช้จะต้องมีทักษะในการทำเสียก่อน 
+โดยจะต้องพกหนังสือเล่มนี้ติดตัวเอาไว้ด้วย

@@ -1,33 +1,28 @@
 %faf0e6
-^000088Basic Alchemy: Marine Sphere Creation^000000
+^000088การแปรธาตุขั้นพื้นฐาน : การสร้าง Marine Sphere^000000
 
 
-----------------Preface--------------------
-We discovered a monster called Marine Sphere
-while exploring Izlude. It floated peacefully in the
-water, but exploded if something came into contact
-with it. We devised a way so that it could survive
-outside of water and move in the air, and developed
-a method so that it could be alchemically converted
-into a bottled form. We think using Marine Spheres
-as bombs would be useful for Alchemists to defend
-themselves against hostile enemies.
+----------------คำนำ--------------------
+เราค้นพบมอนสเตอร์ที่เรียกว่า  
+Marine Sphere ขณะที่เรากำลังสำรวจเมือง
+Izlude อยู่ มันลอยนิ่งๆ อยู่บนน้ำแต่มันจะ
+ระเบิดตัวเองถ้ามีบางสิ่งไปยุ่งกับมัน เราคิด
+ค้นวิธีที่มันจะอยู่รอดได้โดยไม่ต้องอยู่ในน้ำและ
+สามารถใช้วิชาการแปรธาตุดัดแปลงมันและนำมา
+บรรจุในขวดได้ เราคิดว่าการใช้ระเบิดจาก Marine
+Sphere จะสามารถใช้ป้องกันตัวจากศัตรูได้
 ------------------------------------------
 
-What is a ^400080marine sphere^000000?
+^400080Marine Sphere^000000 คืออะไร?
 
-Marine Spheres are living bombs that explode
-if something touches it. They can be transformed
-into a bottled form that must be handled with the
-appropriate safety precautions. Alchemists must
-also learn the Summon Marine Sphere skill to
-transform bottled Marine Spheres back into
-their original forms.
+Marine Sphere เป็นสิ่งมีชีวิตที่สามารถระเบิด
+ตัวเองได้ถ้ามีอะไรไปสัมผัสมัน พวกมันถูกเปลี่ยนรูปร่าง
+เพื่อให้บรรจุอยู่ในขวดได้ ซึ่งจะถูกเก็บไว้ในที่ๆ
+ปลอดภัยเป็นอย่างดี Alchemist จะสามารถใช้มันได้
+ก็ต่อเมื่อเรียนทักษะในการเรียกมันเสียก่อน
 
-Ingredients: ^4b00821 Detonator, 1 Tendon, 1 Empty Bottle^000000
+ส่วนผสม : ^4b00821 Detonator, 1 Tendon, 1 Empty Bottle^000000
 
-Directions: Place the detonator and tendon into
-a medicine bowl, and use the Prepare Potion skill
-while referring to this book. You must learn the
-Summon Marine Sphere skill if you want to
-Produce a live Marine Sphere from the bottle.
+วิธีทำ : วาง Detonator และ Tendon ลงในถ้วยผสมยา
+ผู้ใช้จะต้องมีทักษะในการทำเสียก่อน 
+โดยจะต้องพกหนังสือเล่มนี้ติดตัวเอาไว้ด้วย

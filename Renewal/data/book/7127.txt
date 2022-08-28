@@ -1,46 +1,47 @@
 %faf0e6
-^000088Alchemy Basics: Alcohol Creation^000000
+^000088การแปรธาตุขั้นพื้นฐาน : การสร้าง Alcohol^000000
 
 
 ----------------Preface--------------------
 
-The entire alchemy world is panicking, even as I write
-this. Hundreds of Alchemists, despairing of their studies,
-have produced copious amounts of alcohol using the method
-that was announced by the Scholar Association. None of us
-expected this disaster to happen, but more and more Alchemists
-are abusing this alcohol production method. I hope you, fair reader,
-never succumb to the ills of alcohol once you decide to learn alchemy.
-I leave this you this book, hoping that it will prevent future Alchemists
-from harming themselves with the knowledge they learn.
+เหล่า Alchenist ทั่วโลกกำลังตกอยู่ในความอลหม่านในขณะที่
+ตัวข้าเองกำลังเขียนหนังสือเล่มนี้อยู่ Alchemist จำนวนมากที่
+สิ้นหวังกับการศึกษาของพวกเขาเอง ต่างหันไปใช้วิธีทำ Alcohol 
+ของสมาคม Scholar กันหมด ไม่มีใครคิดมาก่อนว่าหายนะเช่นนี้
+จะเกิดขึ้น ตอนนี้จำนวน Alchemist ที่หลงผิดเริ่มจะเพิ่มมากขึ้น
+ทุกที ข้าหวังว่า คนที่อ่านหนังสือเล่มนี้ จะไม่ยอมหลงผิดไปเมื่อ
+ตัดสินใจที่จะเรียนวิชาแปรธาตุนี้ ข้าทิ้งหนังสือเล่มนี้เอาไว้เพื่อ
+หวังว่ามันจะช่วยปกป้องอนาคตของเหล่า Alchemist ทั้งหลายได้
 
-"Alcoholism... It's no good!"
+"จน เครียด กินเหล้า ... แล้วเมื่อไหร่จะหายจน!"
 
 ------------------------------------------
 
 
 
-What is^ff0000alcohol^000000?
+^ff0000Alcohol^000000 คืออะไร?
 
-In chemistry, an alcohol is any organic compound
-in which a hydroxyl group (-OH) is bound to a carbon
-atom of an alkyl or substituted alkyl group.
+สารประกอบแอลกอฮอล์มีสูตรทั่วไปคือ R – OH 
+หมู่ฟังชันนัลของสารประเภทนี้คือไฮดรอกซิล (hydroxyl group, -OH) 
+ชื่อสามัญของสารประกอบแอลกอฮอล์ จะเรียกเป็น  “alkyl alcohol”  
+ตัวอย่างของสารประเภทนี้ได้แก่ Methanol, Ethanol และ tert – Butanol
 
-The general formula is ROH. Methanol is formed when
-an alkyl group bonds to a methyl group, a hydrophobic alkyl
-group derived from ethane. Ethanol is formed when an alkyl
-group bonds to an ethyl group, an alkyl functional group derived
-from ethane. The structure of an alkyl is the same as its straight
-chained hydrocarbon counterpart but with one less hydrogen atom. 
+สมบัติทางกายภาพของแอลกอฮอล์
+- แอลกอฮอล์ที่มีจำนวนอะตอมของคาร์บอนเพิ่มขึ้นจะมีจุดเดือด
+สูงขึ้น (มวลโมเลกุลมากขึ้นจุดเดือดสูงขี้น) 
+- แอลกอฮอล์ที่มีมวลโมเเลกุลเท่ากัน โครงสร้างที่เป็นโซ่ตรงจะมีจุด
+เดือดสูงกว่าโครงสร้างที่เป็นโซ่กิ่ง
+- จุดเอดของแอลกอฮอล์จะสูงกว่าแอลเคนที่มีมวลโมเลกุลใกล้เคียงกัน
+- แอลกอฮอล์ที่มีโมเลกุลเล็กละลายน้ำได้ดี เมื่อโมเลกุลใหญ่ขึ้น 
+ความสามารถในการละลายน้ำลดลง
  
-
-Ingredients: ^4b00825 stem, 5 Poison Spore,
+ส่วนผสม : ^4b00825 Stem, 5 Poison Spore,
 1 Empty Test Tube, 1 Empty Bottle^000000
 
-Directions:
-Put sugared stems and poison spores in the empty bottle.
-Add some water and boil. Collect the gas, and then cool it down
-for distillation. Place the liquified gas in the empty test tube. Keep
-this book with you and refer to it while you gather the ingredients
-and use the Prepare Potion skill so that you can create Alcohol.
+วิธีทำ :
+ใส่ Stem และ Poison Spore ลงในขวดเปล่า
+เติมน้ำลงไปแล้วต้ม ค่อยๆ เร่งแก๊ส จากนั้น
+ก็เบาลง คอยกลั่นเอาไว้ ใส่แก๊สเหลวในหลอดทดลอง
+ในขณะที่คุณกำลังสร้างแอลกฮอล์อยู่ คุณต้องพกหนังสือ
+เล่มนี้ติดตัวไว้ ในขณะที่ทำทุกๆ ขั้นตอน
 

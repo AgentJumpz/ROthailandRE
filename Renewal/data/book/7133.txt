@@ -1,55 +1,57 @@
 %faf0e6
-^000088Intermediate Alchemy: Condensed Potions^000000
+^000088การแปรธาตุขั้นกลาง : Slim Potion ^000000
 
 
-----------------Preface--------------------
+----------------คำนำ--------------------
 
-If the basics of potion making is already second
-nature to you, then you might be prepared for the
-more advanced process of producing condensed
-potions. Condensing maximizes the effectiveness
-of your potions while minimizing their weight and
-the required production materials.
+พื้นฐานของการทำ Potion ขั้นที่สอง
+เป็นกระบวนการทำ Potion ขั้นสูงที่ทำให้
+Potion มีขนาดเล็กลง ผลดังกล่าวจะ
+ทำให้น้ำหนักของมันเบาลง สำหรับกระบวนการนี้
+จะต้องมีวัตถุดิบจำนวนหนึ่งในการผลิตด้วย
 
 ------------------------------------------
 
-What is a ^ff0000Condensed Potion^000000?
+^ff0000Slim Potion^000000 คืออะไร?
 
-A condensed potion is an incredibly dense potion
-that has the same effectiveness as its normal
-counterpart, but is much lighter in weight.
-Condensing potions is a great convenience
-since it increases the amount of potions that
-Alchemists and other adventurers can carry.
-
-
-^0000ffRed Slim Potion^000000: Restores 45 HP.
-Required Materials: ^4b00821 Red Potion,
-1 Cactus Needle, 1 Empty Cylinder^000000
-
-Process: Slowly pour a red potion into a medicine
-bowl, and mix in ground cactus needle. You must
-keep this book with you as a reference while you
-use the Prepare Potion skill to pour the solution
-into an empty cylinder.
-
-^800000Yellow Slim Potion^000000 : Restores 175 HP
-Required Materials: ^4b00821 Yellow Potion ,
-1 Mole Whisker, 1 Empty Cylinder^000000
-
-Process: Slowly pour a yellow potion into
-a medicine bowl, and mix in boiled, liquefied
-mole whisker. You must keep this book with you
-as a reference while you use the Prepare Potion
-skill to pour the solution into an empty cylinder.
+Slim Potion เป็นโพชั่นที่ถูกถูกทำให้มี
+ขนาดที่เล็กลง แต่ประสิทธิภาพใน
+การใช้งานยังคงเท่าเดิม แถมยังมีน้ำหนัก
+ที่เบากว่าเดิมอีกด้วย Slim Potion มีความ
+สะดวกสบายในการพกพา ซึ่งทำให้
+นักผจญภัยทั้งหลายสามารถแบกโพชั่นนี้
+ได้เป็นจำนวนมากกว่าเดิม
 
 
+^0000ffRed Slim Potion^000000: ฟื้นฟู 45 HP
+ส่วนผสม : ^4b00821 Red Potion,
+1 Cactus Needle, 1 Empty Test Tube^000000
 
-^008040White Slim Potion^000000: Restores 325 HP.
-Required Materials: ^4b00821 White Potion,
-1 Witch Starsand, 1 Empty Cylinder^000000
+วิธีทำ : เท Red Potion ช้าๆลงไปในถ้วย
+จากนั้นนำ Cactus Needle ใส่ลงไป คลุกเคล้า
+ให้เข้ากัน คุณต้องพกหนังสือนี้ติดตัว
+ในขณะที่คุณเทส่วนผสมทั้งหมด
+ลงไปในหลอดแก้วในตอนสุดท้าย
 
-Process: Slowly pour a white potion into a medicine
-bowl, and mix in witch starsand. You must keep this
-book with you as a reference while you use the Prepare
-Potion skill to pour the solution into an empty cylinder.
+^800000Yellow Slim Potion^000000 : ฟื้นฟู 175 HP
+ส่วนผสม : ^4b00821 Yellow Potion ,
+1 Mole Whisker, 1 Empty Test Tube^000000
+
+วิธีทำ : เท Yellow Potion ช้าๆลงไปในถ้วย
+จากนั้นนำ Mole Whisker ใส่ลงไป คลุกเคล้า
+ให้เข้ากัน คุณต้องพกหนังสือนี้ติดตัว
+ในขณะที่คุณเทส่วนผสมทั้งหมด
+ลงไปในหลอดแก้วในตอนสุดท้าย
+
+
+
+^008040White Slim Potion^000000: ฟื้นฟู 325 HP
+ส่วนผสม : ^4b00821 White Potion,
+1 Witch Starsand, 1 Empty Test Tube^000000
+
+วิธีทำ : เท White Potion ช้าๆลงไปในถ้วย
+จากนั้นนำ Witch Starsand ใส่ลงไป คลุกเคล้า
+ให้เข้ากัน คุณต้องพกหนังสือนี้ติดตัว
+ในขณะที่คุณเทส่วนผสมทั้งหมด
+ลงไปในหลอดแก้วในตอนสุดท้าย
+
